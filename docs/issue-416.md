@@ -128,7 +128,7 @@ Jen Simmons 演示了一些新的属性，包括 `text-decoration-thickness` 和
 
 *Muhammed Erdem*
 
-## 💻 工作
+## 💻 招聘
 
 译者注：如需了解，请查看原文。
 

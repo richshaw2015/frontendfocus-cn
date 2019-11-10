@@ -68,7 +68,7 @@
 
 *来源：SUZANNE SCACCA*
 
-#### 4、[为什么 Parcel 成为我开发打包的首选工具](https://css-tricks.com/why-parcel-has-become-my-go-to-bundler-for-development/)
+#### 4、[为什么 Parcel 成为我开发打包的首选工具？](https://css-tricks.com/why-parcel-has-become-my-go-to-bundler-for-development/)
 
 这篇总结了流行的网页应用打包工具需要提供的功能，以及如何在你的项目中使用 Parcel。
 
