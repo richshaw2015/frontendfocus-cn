@@ -1,8 +1,12 @@
 # 前端聚焦周刊：第 416 期
 
-这里是 [Frontend Focus](https://frontendfoc.us/link/79482/rss) 的中文翻译项目，每周发布。
+这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [Oh My RSS](https://ohmyrss.com/?fef) 平台首发。
 
-本杂志由 [Oh My RSS](https://ohmyrss.com/) & [Yully Che](https://github.com/chechebecomestrong)联合出品，如有翻译错误或文章推荐，欢迎提交 issue。
+如有翻译错误或国外优质文章推荐，欢迎提交 issue。
+
+> 原文：[Frontend Focus issue 416](https://frontendfoc.us/link/79482/rss)
+> 
+> 翻译及校对：[richshaw2015](https://github.com/richshaw2015)，[Yully Che](https://github.com/chechebecomestrong)
 
 ## 🚀 刊首
 
@@ -22,7 +26,7 @@ Microsoft Edge Beta 79版本已经发布。这是在明年年初稳定版发布�
 
 #### 3、[用于设置下划线样式的新 CSS 属性](https://frontendfoc.us/link/79490/rss "www.youtube.com")
 
-Jen Simmons 展示了一些新的属性，包括 `text-decoration-thickness` 和 `text-underline-offset`。不过这些属性目前的支持度有限。
+Jen Simmons 演示了一些新的属性，包括 `text-decoration-thickness` 和 `text-underline-offset`。不过这些属性目前的支持度有限。
 
 *Mozilla Developer*
 
@@ -74,7 +78,7 @@ Jen Simmons 展示了一些新的属性，包括 `text-decoration-thickness` 和
 
 #### 6、[这些特征使你的站点看起来更像鬼屋，而不是受欢迎的家](https://frontendfoc.us/link/79504/rss "www.smashingmagazine.com")
 
-来看看反面的网站设计原则，不可否认，我对这些古怪的例子很有兴趣！
+来看看反面的网站设计特征，不可否认，我对这些古怪的例子很有兴趣！
 
 *Suzanne Scacca*
 
@@ -114,13 +118,13 @@ Jen Simmons 展示了一些新的属性，包括 `text-decoration-thickness` 和
 
 #### 3、[编写浏览器扩展的工具套件](https://frontendfoc.us/link/79513/rss "github.com")
 
-通过该套件编写的扩展（通过 Web Extensions API），可以实现“一次编写，到处运行”。
+该套件编写的扩展（通过 Web Extensions API），可以实现“一次编写，到处运行”。
 
 *Abhijith Vijayan*
 
 #### 4、[vue-interactive-paycard: 交互友好的信用卡表单组件](https://frontendfoc.us/link/79514/rss "github.com")
 
-实在是太流畅了，点击查看[实时代码演示](https://frontendfoc.us/link/79515/rss)
+实在是太流畅了，点击查看[实时代码演示](https://frontendfoc.us/link/79515/rss)。
 
 *Muhammed Erdem*
 

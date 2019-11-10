@@ -1,8 +1,12 @@
 # 前端聚焦周刊：第 415 期
 
-这里是 [Frontend Focus](https://frontendfoc.us/link/79168/web) 的中文翻译项目，每周发布。
+这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [Oh My RSS](https://ohmyrss.com/?fef) 平台首发。
 
-本杂志由 [Oh My RSS](https://ohmyrss.com/) & [Yully Che](https://github.com/chechebecomestrong)联合出品，如有翻译错误或文章推荐，欢迎提交 issue。
+如有翻译错误或国外优质文章推荐，欢迎提交 issue。
+
+> 原文：[Frontend Focus issue 415](https://frontendfoc.us/link/79168/rss)
+> 
+> 翻译及校对：[richshaw2015](https://github.com/richshaw2015)，[Yully Che](https://github.com/chechebecomestrong)
 
 ## 🚀 刊首
 
