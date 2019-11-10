@@ -8,13 +8,5 @@
 .tgz
 tmp
 dist
-tests/.pytest_cache
-migrations/
 .vscode
-build
-project.egg-info
-setup.py
-*.sqlite3
-fabfile.py
 logs
-docs
