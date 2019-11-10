@@ -2,7 +2,9 @@
 
 这里是 [Frontend Focus](https://frontendfoc.us/link/79168/web) 的中文翻译项目，每周发布。
 
-## 刊首
+本杂志由 [Oh My RSS](https://ohmyrss.com/) & [Yully Che](https://github.com/chechebecomestrong)联合出品，如有翻译错误或文章推荐，欢迎提交 issue。
+
+## 🚀 刊首
 
 ![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1572439195/hj8h0bmcxuciuro8r3mg.jpg)
 
@@ -20,7 +22,7 @@
 
 #### 3、[谷歌将不再索引 Flash 内容](https://webmasters.googleblog.com/2019/10/goodbye-flash.html)
 
-到今年年底，谷歌将停止对 Flash 内容的索引。这和Adobe等公司计划在2020年底停止支持Flash有关。由此，又一段有趣的互联网技术将成为历史。
+到今年年底，谷歌将停止对 Flash 内容的索引。这和Adobe等公司计划在2020年底停止支持 Flash 有关。由此，又一段有趣的互联网技术将成为历史。
 
 *来源：GOOGLE*
 
@@ -58,13 +60,13 @@
 
 #### 3、[使用 WebP 加快网站访问速度](https://www.smashingmagazine.com/2019/10/speed-up-your-website-webp/)
 
-全面概述了 Google 的 WebP 图像格式，重点介绍了其优势、工作原理和使用方法。（令我惊讶的是，这个格式已经诞生十年了）
+全面讲述了 Google 的 WebP 图像格式，重点介绍了其优势、工作原理和使用方法。（令我惊讶的是，这个格式已经诞生十年了）
 
 *来源：SUZANNE SCACCA*
 
 #### 4、[为什么 Parcel 成为我开发打包的首选工具](https://css-tricks.com/why-parcel-has-become-my-go-to-bundler-for-development/)
 
-这篇总结了流行的网页应用打包工具需要提供的功能，以及如何在你的项目中使用Parcel。
+这篇总结了流行的网页应用打包工具需要提供的功能，以及如何在你的项目中使用 Parcel。
 
 *来源：MAKS AKYMENKO*
 
