@@ -88,7 +88,7 @@ Jen Simmons 演示了一些新的属性，包括 `text-decoration-thickness` 和
 
 *Ali Churcher*
 
-#### 8、[微软表示他们全新的 Edge 浏览器（基于 Chromium）即将来到 Linux 平台](https://frontendfoc.us/link/79506/rss "www.gamingonlinux.com")
+#### 8、[微软表示他们全新的 Edge 浏览器（基于 Chromium）即将登陆 Linux 平台](https://frontendfoc.us/link/79506/rss "www.gamingonlinux.com")
 
 *Liam Dawe*
 
@@ -112,7 +112,7 @@ Jen Simmons 演示了一些新的属性，包括 `text-decoration-thickness` 和
 
 #### 2、[Recursive Sans & Mono 字体](https://frontendfoc.us/link/79511/rss "www.recursive.design")
 
-又一个使用可变字体技术的高度定制化字体。它可以通过谷歌字体在线引用，也可以从[代码仓库]（HTTPS://Frand Trim.U./LIK/79512/RSS）获得更新。
+又一个使用可变字体技术的高度定制化字体。它可以通过谷歌字体在线引用，也可以从[代码仓库](https://frontendfoc.us/link/79512/web)获得更新。
 
 *Arrow Type*
 
