@@ -14,7 +14,7 @@
 
 #### 1、[15岁的 Firefox，它的兴衰史以及隐私最大理念](https://frontendfoc.us/link/79816/rss "www.fastcompany.com")
 
-火狐浏览器诞生于2004年，在 Chrome 市场份额追上之前一度很热门，现在的它更强调用户隐私和可定制性。
+Firefox 诞生于2004年，在 Chrome 追赶上之前一度很热门，现在的它更强调用户隐私和可定制性。
 
 *Sean Captain*
 
@@ -26,11 +26,11 @@ Chrome 宣布了其突出显示站点加载速度的计划。速度快的站点�
 
 #### 3、[2019前端工具调查结果](https://frontendfoc.us/link/79820/rss "ashleynolan.co.uk")
 
-今年有3000多名开发者参与了 Ashley 的调查。这篇是详细情况，反应了开发者对不同前端工具（技术）的使用趋势以及掌握情况。
+今年有3000多名开发者参与了 Ashley 的调查。这篇是详细结果，反应了开发者对不同前端工具（技术）的使用趋势以及掌握情况。
 
 *Ashley Nolan*
 
-#### 4、[Chrome 开发者峰会2019主题演讲](https://frontendfoc.us/link/79821/rss "www.youtube.com")
+#### 4、[Chrome 2019开发者峰会主题演讲](https://frontendfoc.us/link/79821/rss "www.youtube.com")
 
 今年的 Chrome 开发者峰会的关键词是庆祝 Web 多样性。这里是本次峰会的[所有视频列表](https://frontendfoc.us/link/79822/rss)，强烈推荐深入研究。
 
@@ -113,7 +113,7 @@ Adam 总结了 JavaScript 对某些用户不可用的原因以及一些补救措
 
 #### 3、[linkinator：一个扫描坏链的工具](https://frontendfoc.us/link/79840/rss "github.com")
 
-一个用于验证链接（有效性）的站点爬虫程序，最近有更新。
+一个用于验证链接（有效性）的站点爬虫工具，最近有更新。
 
 *Justin Beckwith*
 
