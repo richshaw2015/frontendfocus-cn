@@ -12,15 +12,15 @@
 
 [![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1573642250/nzbpemozk2zuof1ajk6e.jpg)](https://frontendfoc.us/link/79816/rss)
 
-#### 1、[15岁的 Firefox，它的兴衰史以及隐私最大的理念](https://frontendfoc.us/link/79816/rss "www.fastcompany.com")
+#### 1、[15岁的 Firefox，它的兴衰史以及隐私最大理念](https://frontendfoc.us/link/79816/rss "www.fastcompany.com")
 
-火狐浏览器于2004年诞生，一度很热门（在 Chrome 份额追上之前），现在的它更强调用户隐私和可定制性。
+火狐浏览器诞生于2004年，一度很热门（在 Chrome 份额追上之前），现在的它更强调用户隐私和可定制性。
 
 *Sean Captain*
 
 #### 2、[谷歌的 Web 提速计划](https://frontendfoc.us/link/79817/rss "blog.chromium.org")
 
-Chrome 宣布了其高亮显示站点加载速度的计划。速度快的会被“奖励”以显示绿色的加载条，而慢的则会显示一个[“耻辱徽章”](https://frontendfoc.us/link/79818/rss)。
+Chrome 宣布了其突出显示站点加载速度的计划。速度快的站点会被“奖励”以显示绿色的加载条，而慢的则会显示一个[“耻辱徽章”](https://frontendfoc.us/link/79818/rss)。
 
 *Google*
 
@@ -113,7 +113,7 @@ Adam 总结了 JavaScript 对某些用户不可用的原因以及一些补救措
 
 #### 3、[linkinator：一个扫描坏链的工具](https://frontendfoc.us/link/79840/rss "github.com")
 
-一个用于验证链接的站点爬虫程序，最近有更新。
+一个用于验证链接（有效性）的站点爬虫程序，最近有更新。
 
 *Justin Beckwith*
 
