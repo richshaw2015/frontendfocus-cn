@@ -14,19 +14,19 @@
 
 #### 1、[15岁的 Firefox，它的兴衰史以及隐私最大理念](https://frontendfoc.us/link/79816/rss "www.fastcompany.com")
 
-火狐浏览器诞生于2004年，一度很热门（在 Chrome 份额追上之前），现在的它更强调用户隐私和可定制性。
+火狐浏览器诞生于2004年，在 Chrome 市场份额追上之前一度很热门，现在的它更强调用户隐私和可定制性。
 
 *Sean Captain*
 
 #### 2、[谷歌的 Web 提速计划](https://frontendfoc.us/link/79817/rss "blog.chromium.org")
 
-Chrome 宣布了其突出显示站点加载速度的计划。速度快的站点会被“奖励”以显示绿色的加载条，而慢的则会显示一个[“耻辱徽章”](https://frontendfoc.us/link/79818/rss)。
+Chrome 宣布了其突出显示站点加载速度的计划。速度快的站点会被“奖励”以显示绿色的加载条，而慢的则会在加载中界面显示一个[“耻辱徽章”](https://frontendfoc.us/link/79818/rss)。
 
 *Google*
 
 #### 3、[2019前端工具调查结果](https://frontendfoc.us/link/79820/rss "ashleynolan.co.uk")
 
-今年有3000多名开发者参与了 Ashley 的调查。这篇是详细的情况，反应了开发者对不同前端工具（技术）的使用趋势以及掌握情况。
+今年有3000多名开发者参与了 Ashley 的调查。这篇是详细情况，反应了开发者对不同前端工具（技术）的使用趋势以及掌握情况。
 
 *Ashley Nolan*
 
