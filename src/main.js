@@ -16,18 +16,25 @@ const rssParser = new RssParser();
 
     feed.items.forEach(item => {
         const issueNum = /\/(\d+)$/.exec(item.link)[1];
-        const htmlStr = item.content.trim();
-        const mdStr = turndownService.turndown(htmlStr);
-        const fefMd = trunFefmd(mdStr);
 
         const issueSrc = path.resolve(__dirname, `../docs/issue-${issueNum}-en.md`);
-        fs.writeFile(issueSrc, fefMd, function (err) {
-            if (err) {
-                console.error(err.message);
-                return
-            }
-            console.log(`${issueSrc} 文件生成成功`)
-        });
+
+        if (fs.existsSync(issueSrc)) {
+            console.log(`跳过处理文件 ${issueSrc}`)
+        } else {
+            const htmlStr = item.content.trim();
+            const mdStr = turndownService.turndown(htmlStr);
+            const fefMd = trunFefmd(mdStr);
+
+            fs.writeFile(issueSrc, fefMd, function (err) {
+                if (err) {
+                    console.error(err.message);
+                    return
+                }
+                console.log(`文件生成成功 ${issueSrc}`)
+            });
+        }
+
     });
 
 })();
