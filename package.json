@@ -1,0 +1,28 @@
+{
+  "name": "turndownfef",
+  "description": "A Tool that converts Frontend Focus issue HTML to Markdown",
+  "version": "0.0.1",
+  "author": "Rich Shaw",
+  "browser": {
+    "jsdom": false
+  },
+  "dependencies": {
+    "turndown": "^5.0.3",
+    "rss-parser": "^3.7.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "converter",
+    "html",
+    "markdown",
+    "Frontend Focus"
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/richshaw2015/frontendfocus-cn.git"
+  },
+  "scripts": {
+    "build": "node src/main.js"
+  }
+}

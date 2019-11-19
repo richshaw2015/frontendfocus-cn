@@ -10,3 +10,4 @@ tmp
 dist
 .vscode
 logs
+node_modules
