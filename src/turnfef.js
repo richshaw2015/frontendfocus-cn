@@ -61,7 +61,7 @@ function trunFefmd(md) {
         } else {
             // 尝试匹配图片
             match = /^\[!\[]\(.+\)]\(.+\)/.exec(line);
-            if (match !== null) {
+            if (match !== null || line.startsWith('![](')) {
                 resultList.push(line)
             } else {
                 // 尝试匹配文章及导读
@@ -77,7 +77,7 @@ function trunFefmd(md) {
                     resultList.push(brief)
                 } else {
                     // 另一种形式的标题，没有导读形式的
-                    match = /^\[.+]\(.+\)$/.exec(line);
+                    match = /^(▶\s+)?\[.+]\(.+\)$/.exec(line);
                     if (match !== null) {
                         // 命中标题了
                         titleStartLine = resultList.length;
@@ -90,7 +90,7 @@ function trunFefmd(md) {
                             resultList.push(`${line}`)
                         } else {
                             // 作者
-                            if (line.endsWith('sponsor')) {
+                            if (line.indexOf('sponsor') > 0) {
                                 // 广告，过滤掉，一直删除到标题行的位置
                                 if ((resultList.length - titleStartLine) > 2) {
                                     console.error(`！！裁剪广告过多：${titleStartLine} ${resultList.length}`);
