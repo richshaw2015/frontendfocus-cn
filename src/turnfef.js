@@ -74,7 +74,7 @@ function trunFefmd(md) {
                     const brief = `${match[2]}`;
 
                     resultList.push(title);
-                    resultList.push(brief)
+                    resultList.push(brief);
                 } else {
                     // 另一种形式的标题，没有导读形式的
                     match = /^(▶\s+)?\[.+]\(.+\)$/.exec(line);
@@ -82,7 +82,9 @@ function trunFefmd(md) {
                         // 命中标题了
                         titleStartLine = resultList.length;
 
-                        resultList.push(`#### ${match[0]}`);
+                        const title = `#### ${match[0]}`;
+
+                        resultList.push(title);
                     } else {
                         // 尝试匹配作者或者列表元素
                         if (line.startsWith('-   ') || line.startsWith('*   ')) {
@@ -99,7 +101,7 @@ function trunFefmd(md) {
                                 resultList.splice(titleStartLine);
                             } else {
                                 console.log(`${line} 解析为作者字段`);
-                                resultList.push(`*${line}*`)
+                                resultList.push(`*来源：${line}*`)
                             }
                         }
                     }
@@ -109,9 +111,9 @@ function trunFefmd(md) {
     }
 
     resultList.push('## 💻 招聘');
-    resultList.push('译者注：如需了解，请查看原文。');
+    resultList.push(`译者注：如需了解，请[查看原文](https://frontendfoc.us/issues/${issueNum})。`);
     resultList.push('## 🗓 未来大事记');
-    resultList.push('译者注：如需了解，请查看原文。');
+    resultList.push(`译者注：如需了解，请[查看原文](https://frontendfoc.us/issues/${issueNum})。`);
     resultList.push('');
 
     return resultList.join('\n\n')

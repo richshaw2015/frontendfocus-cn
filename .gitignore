@@ -9,5 +9,6 @@
 tmp
 dist
 .vscode
+docs/bot.md
 logs
 node_modules
