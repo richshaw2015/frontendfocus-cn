@@ -70,7 +70,7 @@ _“Ultimately, Firefox’s future is as much down to the decisions of a few reg
 
 #### ▶  [看完 Rémi Parmentier 的这些视频，你就能成为 HTML 邮件极客](https://frontendfoc.us/link/80223/rss "www.smashingmagazine.com")
 
-对于设计兼容各种奇怪邮件客户端（和浏览器的差异巨大）的 HTML 邮件十分有用。
+对于开发兼容各种奇怪邮件客户端（和浏览器的差异巨大）的 HTML 邮件十分有用。
 
 *Rachel Andrew*
 
@@ -81,7 +81,7 @@ _“Ultimately, Firefox’s future is as much down to the decisions of a few reg
 *Stefan Judis*
 
 #### [你是如何删除冗余 CSS 的？](https://frontendfoc.us/link/80142/rss "css-tricks.com")
-Chris Coyier 提出了对现有识别冗余 CSS 工具（宣称可以完美处理）的质疑，列举它们的问题并给出了替代的实践。
+Chris Coyier 提出了对现有识别冗余 CSS 工具（宣称可以完美处理）的质疑，列举它们的问题并给出了替代的实践方案。
 
 ![](https://res.cloudinary.com/css-tricks/image/upload/c_scale,w_862,f_auto,q_auto/v1570745586/unused-css-lines_alykdl.png)
 
@@ -89,7 +89,9 @@ Chris Coyier 提出了对现有识别冗余 CSS 工具（宣称可以完美处�
 
 #### ▶  [`:focus` 我们都用错了](https://frontendfoc.us/link/80143/rss "www.youtube.com")
 
-本篇讲述了 focus 的各种状态，以及其如何让使用键盘浏览的用户体验更好。注意：不要关闭`:focus`。
+本篇讲述了 focus 的各种状态，以及其如何提升键盘用户浏览体验的。
+
+提醒：请不要关闭`:focus`。
 
 *Kevin Powell*
 
