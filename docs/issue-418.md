@@ -46,7 +46,7 @@ _“Ultimately, Firefox’s future is as much down to the decisions of a few reg
 
 *Alex Hern (The Guardian)*
 
-#### [Chrome，Edge，Safari 在中国黑客大赛上被攻破](https://frontendfoc.us/link/80135/rss "www.zdnet.com")
+#### [Chrome、Edge、Safari 在中国黑客大赛上被攻破](https://frontendfoc.us/link/80135/rss "www.zdnet.com")
 
 中国的顶级白帽黑客在成都对当下主流浏览器进行了0 day 测试。
 
@@ -72,7 +72,7 @@ _“Ultimately, Firefox’s future is as much down to the decisions of a few reg
 
 #### ▶  [开发者应该了解的 HTTP 头部](https://frontendfoc.us/link/80140/rss "www.youtube.com")
 
-探讨 HTTP 头部是如何直接影响到用户体验的。 [查看相关演示](https://frontendfoc.us/link/80141/rss)。
+探讨 HTTP 头部是如何直接影响到用户体验的，点此[查看相关演示](https://frontendfoc.us/link/80141/rss)。
 
 *Stefan Judis*
 
@@ -83,7 +83,7 @@ Chris Coyier 提出了对现有识别冗余 CSS 工具（宣称可以完美处�
 
 #### ▶  [`:focus` 我们都用错了](https://frontendfoc.us/link/80143/rss "www.youtube.com")
 
-本篇讲述了 focus 状态，以及其如何让键盘浏览的用户体验更好。注意：不要关闭`:focus`。
+本篇讲述了 focus 状态，以及其如何让使用键盘浏览的用户体验更好。注意：不要关闭`:focus`。
 
 *Kevin Powell*
 
@@ -132,7 +132,7 @@ Chris Coyier 提出了对现有识别冗余 CSS 工具（宣称可以完美处�
 
 #### [bootlint：Bootstrap 项目的 HTML 校验工具](https://frontendfoc.us/link/80154/rss "github.com")
 
-尽管刚刚达到1.0版本，但是相当流行和成熟，它用普通的方式检查使用 Bootstrap 网页中的常见 HTML 错误。
+尽管刚刚发布1.0版本，但是其相当流行和成熟，它用很普通的方式检查使用 Bootstrap 网页中的常见 HTML 错误。
 
 *Bootstrap*
 
