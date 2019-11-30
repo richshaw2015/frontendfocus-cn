@@ -6,4 +6,4 @@
 
 ## 2019
 
-**十一月**：[第 417 期](docs/issue-417.md):high_brightness: | [第 416 期](docs/issue-416.md) | [第 415 期](docs/issue-415.md)
+**十一月**：[第 418 期](docs/issue-418.md):high_brightness: | [第 417 期](docs/issue-417.md) | [第 416 期](docs/issue-416.md) | [第 415 期](docs/issue-415.md)
