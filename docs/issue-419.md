@@ -26,7 +26,7 @@ Julie Grundy 探讨了自定义表单存在的各种问题，给出了自己的�
 
 #### [Mozilla 在 macOS 的日构建版本中推出 Firefox Replay](https://frontendfoc.us/link/80726/rss "www.neowin.net")
 
-这个特性刚推出来，可以记录、回放、倒退到各种状态，包括 JS 行为、DOM 变化、图形界面更新等。跨平台支持稍后提供。有关该项目的详细信息，[参见 Mozilla 的网站](https://frontendfoc.us/link/80727/rss).
+这个特性刚推出来，可以记录、回放、倒退到各种状态，包括 JS 行为、DOM 变化、图形界面更新等。跨平台支持稍后提供。有关该项目的详细信息，[参见 Mozilla 的网站](https://frontendfoc.us/link/80727/rss)。
 
 ![](https://cdn.neow.in/news/images/uploaded/2019/11/1574963979_hero-replay_story.jpg)
 
@@ -78,7 +78,7 @@ Chrome [支持](https://frontendfoc.us/link/80737/rss)“画中画”机制，�
 
 #### ▶  [从 Chrome 性能监控中学到的东西](https://frontendfoc.us/link/80739/rss "www.youtube.com")
 
-在最近的 performance.now() 会议上拍摄的演讲，非常有说服力。[点击查看相关 PPT](https://frontendfoc.us/link/80740/rss).
+在最近的 performance.now() 会议上拍摄的演讲，非常有说服力。[点击查看相关 PPT](https://frontendfoc.us/link/80740/rss)。
 
 *来源：Annie Sullivan*
 
@@ -98,7 +98,7 @@ Chrome [支持](https://frontendfoc.us/link/80737/rss)“画中画”机制，�
 
 *来源：Refactoring UI*
 
-#### ▶  [可预测的预加载](https://frontendfoc.us/link/80742/rss "www.youtube.com")
+#### ▶  [可预测的预加载](https://frontendfoc.us/link/80742/rss "www.youtube.com")。
 
 通过检测开发中使用的技术，以实现可预测的预加载，例如 [GuessJS](https://frontendfoc.us/link/80743/rss)
 
