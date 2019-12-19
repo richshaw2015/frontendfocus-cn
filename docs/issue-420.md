@@ -28,7 +28,7 @@
 
 #### [Chrome 79 发布：支持冻结 TAB、后退缓存、诸多安全特性](https://frontendfoc.us/link/81110/rss "www.zdnet.com")
 
-最近发布的 79 版本支持钓鱼网站检测、实时的安全检测并自带密码检查工具。Google 的[视频](https://frontendfoc.us/link/81111/rss)有完整介绍。
+最近发布的 79 版本支持钓鱼网站检测、实时的安全检测并内置密码检查工具。Google 的[视频](https://frontendfoc.us/link/81111/rss)有完整介绍。
 
 ![](https://zdnet2.cbsistatic.com/hub/i/2019/12/10/cf53e458-2cba-4faf-adc8-eb0a208ed602/chrome-79-predictive-phishing.png)
 
@@ -61,8 +61,7 @@
 
 #### [用于黑暗模式的 SVG 图标属性 `prefers-color-scheme`](https://frontendfoc.us/link/81119/rss "blog.tomayac.com")
 
-Chrome 将很快支持 SVG 格式的 favicon，这意味着您将能够使用 CSS 和 `prefers-color-scheme` 媒体查询来适配使用黑暗模式的用户。这是[一点演示](https://frontendfoc.us/link/81120/rss)。
-
+Chrome 将很快支持 SVG 格式的 favicon，这意味着您将能够使用 CSS 和 `prefers-color-scheme` 生成媒体查询规则来适配系统的黑暗模式。这是[一点演示](https://frontendfoc.us/link/81120/rss)。
 
 ![](https://pbs.twimg.com/media/EJzWSAxWsAAdteb?format=png&name=small)
 
@@ -70,7 +69,7 @@ Chrome 将很快支持 SVG 格式的 favicon，这意味着您将能够使用 CS
 
 #### [不使用库的精致滚动体验](https://frontendfoc.us/link/81122/rss "24ways.org")
 
-讲述了在不借助第三方库的情况下如何控制网页的滚动行为，即使用相对较新的 CSS Scroll Snap 规范。
+本篇讲述了在不借助第三方库的情况下如何控制网页的滚动行为，即使用相对较新的 CSS Scroll Snap 规范。
 
 *来源：Michelle Barker*
 
