@@ -145,6 +145,8 @@ Thoughts on how the ‘link in bio’ phrase (often seen over on Instagram) can 
 
 用于测试响应式网站的 Chrome 扩展，可在页面同时显示多个屏幕。
 
+![](https://lh3.googleusercontent.com/qRFoEjyI_rpXKJrwTrkExWCtUaUuxNNRnNVjNxqs49PJQgBd2XA1iLPXGQk5JEwjf1K5Uk07rp8=w640-h400-e365)
+
 *来源：skmail*
 
 ## 💻 招聘
