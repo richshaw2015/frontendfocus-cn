@@ -70,7 +70,7 @@ Chrome 将很快支持 SVG 格式的 favicon，这意味着您将能够使用 CS
 
 #### [不使用库的精致滚动体验](https://frontendfoc.us/link/81122/rss "24ways.org")
 
-相对较新的 CSS Scroll Snap 规范，讲述了在不借助第三方库的情况下如何控制网页的滚动行为。
+讲述了在不借助第三方库的情况下如何控制网页的滚动行为，即使用相对较新的 CSS Scroll Snap 规范。
 
 *来源：Michelle Barker*
 
@@ -106,7 +106,7 @@ Thoughts on how the ‘link in bio’ phrase (often seen over on Instagram) can 
 
 *来源：Elad Shechter*
 
-#### [使用 Netlify CMS 创建开放授权的 JAMstack 站点](https://frontendfoc.us/link/81129/rss "dev.to")
+#### [使用 Netlify CMS 搭建开放授权的 JAMstack 站点](https://frontendfoc.us/link/81129/rss "dev.to")
 
 ![](https://thepracticaldev.s3.amazonaws.com/i/1g2qv2ok2q050wy6jptt.png)
 
@@ -118,17 +118,17 @@ Thoughts on how the ‘link in bio’ phrase (often seen over on Instagram) can 
 
 #### [noUiSlider：支持多点触摸的轻量级滑块](https://frontendfoc.us/link/81130/rss "github.com")
 
-其相当强大和灵活，有[完整示例](https://frontendfoc.us/link/81131/rss)。
+其相当强大和灵活，查看[完整示例](https://frontendfoc.us/link/81131/rss)。
 
 *来源：Leon Gersen*
 
-#### [OpenLayers：高性能前端地图库](https://frontendfoc.us/link/81132/rss "openlayers.org")
+#### [OpenLayers：高性能的前端地图库](https://frontendfoc.us/link/81132/rss "openlayers.org")
 
-在页面上放置动态地图，可以渲染不同数据源、矢量数据图层、标记等。视情况支持 Canvas 和 WebGL。
+在页面上放置动态地图，支持渲染不同数据源、矢量数据图层、标记等。视情况支持 Canvas 和 WebGL。
 
 *来源：OpenLayers*
 
-#### [Falco：监视、分析和优化网站](https://frontendfoc.us/link/81133/rss "github.com")
+#### [Falco：监视、分析和优化网站工具](https://frontendfoc.us/link/81133/rss "github.com")
 
 这个开源的性能工具可以自动审计您的站点，并提供 WebPageTest 的结果或报告。
 
@@ -138,7 +138,7 @@ Thoughts on how the ‘link in bio’ phrase (often seen over on Instagram) can 
 
 #### [谁可以使用您的颜色组合](https://frontendfoc.us/link/81134/rss "whocanuse.com")
 
-色彩对比度会不同程度地影响有视觉障碍的用户，这个工具可以引起人们的关注和了解。
+色彩对比度会不同程度地影响有视觉障碍的用户，这个工具可以引起人们对此的关注和了解。
 
 *来源：Who Can Use*
 
