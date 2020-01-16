@@ -23,7 +23,7 @@ const rssParser = new RssParser();
         // 目标中文文件
         const issueCn = path.resolve(__dirname, `../docs/issue-${issueNum}.md`);
         // 机器翻译文件
-        const botRef = path.resolve(__dirname, `../docs/bot.md`);
+        const botRef = path.resolve(__dirname, `../docs/issue-${issueNum}-bot.md`);
 
         if (fs.existsSync(issueEn)) {
             console.log(`跳过处理文件：| ${issueEn}`)
