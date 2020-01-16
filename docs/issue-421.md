@@ -34,11 +34,11 @@
 
 *来源：Emma Wedekind*
 
-#### 3. [深入 Edge 基于 Google 开发的决策过程](https://frontendfoc.us/link/81436/rss "www.theverge.com")
+#### 3. [深入 Edge 更换内核的决策过程](https://frontendfoc.us/link/81436/rss "www.theverge.com")
 
 ![](https://cdn.vox-cdn.com/thumbor/6YK5CUkxU_ucnLXyePVJYArB_6Y=/0x0:2040x1351/925x925/filters:focal(1304x411:1630x737):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/63734938/chromiumedgestoryhed.5.jpg)
 
-在浏览器领域，今年最大的惊喜之一是 **微软决定改用 Chromium 作为 Edge 的浏览器引擎**。这个重大决定的幕后过程引起了很多关注，第一个版本预计在[2020年初发布](https://frontendfoc.us/link/81437/rss)。
+在浏览器领域，今年最大的惊喜之一是 **微软决定改用 Chromium 作为 Edge 的浏览器引擎**。这个重大决定的幕后引起了很多关注，第一个版本预计在[2020年初发布](https://frontendfoc.us/link/81437/rss)。
 
 *来源：Tom Warren*
 
@@ -58,7 +58,7 @@
 
 #### 6. [W3C 批准了 WebAuthn 作为 Web 免密登录标准](https://frontendfoc.us/link/81425/rss "venturebeat.com")
 
-早在3月份，W3C 就宣布了 WebAuthn 成为正式的 Web 免密登录标准。从那时起，以安全为核心的标准得到了厂商逐步的支持，例如 [Safari](https://frontendfoc.us/link/81426/rss) 、[Firefox](https://frontendfoc.us/link/81427/rss)、[Twitter](https://frontendfoc.us/link/81428/rss) 、 [eBay](https://frontendfoc.us/link/81429/rss)。
+早在3月份，W3C 就宣布了 WebAuthn 成为正式的 Web 免密登录标准。从那时起，这个以安全为核心的标准得到了厂商逐步的支持，例如 [Safari](https://frontendfoc.us/link/81426/rss) 、[Firefox](https://frontendfoc.us/link/81427/rss)、[Twitter](https://frontendfoc.us/link/81428/rss) 、 [eBay](https://frontendfoc.us/link/81429/rss)。
 
 *来源：Emil Protalinski*
 
@@ -110,7 +110,7 @@
 
 *DREW MCLELLAN*
 
-## ⚙️ 2019最流行的代码 demo
+## ⚙️ 2019最流行的代码片段
 
 #### [CSS Grid：电子表格](https://frontendfoc.us/link/81578/web)
 
