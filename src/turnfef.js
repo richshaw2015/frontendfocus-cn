@@ -53,7 +53,7 @@ function trunFefmd(md) {
             issueNum = match[1];
             resultList.push(`# 前端聚焦周刊：第 ${issueNum} 期`);
             resultList.push(`这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [Oh My RSS](https://ohmyrss.com/?fef) 平台首发。`);
-            resultList.push(`如有翻译错误或国外优质文章推荐，欢迎提交 issue。`);
+            // resultList.push(`如有翻译错误或国外优质文章推荐，欢迎提交 issue。`);
 
             resultList.push(`> 原文：[Frontend Focus issue ${issueNum}](https://frontendfoc.us/issues/${issueNum})\n> \n> 翻译及校对：[richshaw2015](https://github.com/richshaw2015)，[Yully Che](https://github.com/chechebecomestrong)`);
 
