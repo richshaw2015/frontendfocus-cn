@@ -12,7 +12,7 @@
 
 #### [2020年前端性能检查清单](https://frontendfoc.us/link/81911/rss "www.smashingmagazine.com")
 
-这篇大而全的前端性能检查清单又一次进行了年度更新，包含了创建高性能 Web 应用的所有细节。提供了 PDF、苹果、微软格式的文档下载。
+这篇大而全的前端性能检查清单又一次进行了年度更新，包含了创建高性能 Web 应用的所有细节。提供 PDF、苹果、微软格式的文档下载。
 
 *来源：Smashing Magazine*
 
@@ -37,13 +37,13 @@ Jen Simmons 讲述了 Firefox 常规版、Beta版、每日构建版和开发者�
 
 #### [通过创建网格容器理解 CSS Grid](https://frontendfoc.us/link/81916/rss "www.smashingmagazine.com")
 
-一个新的学习 CSS Grid 系列，详细介绍了创建网格容器时发生的变化以及可应用于调整网格的各种容器属性。
+一个新的学习 CSS Grid 系列教程，详细介绍了创建网格容器时发生的变化以及可应用于调整网格的各种容器属性。
 
 *来源：Rachel Andrew*
 
 #### [无处不在的微型浏览器](https://frontendfoc.us/link/81917/rss "24ways.org")
 
-您的网站正在被网页、搜索、社交 APP 进行各种形式的微型预览（_类似于消息应用中的链接预览_），了解微型浏览器的细节以及如何更好的处理。
+您的网站正在被网页、搜索、社交 APP 进行各种形式的微型预览（_类似于消息应用中的链接预览_），本篇了解微型浏览器的细节以及如何更好的处理。
 
 ![](https://colinbendell.cloudinary.com/image/upload/q_auto,f_auto/microbrowser_url_preview_compare.png)
 
@@ -59,7 +59,7 @@ WebGL 很不错的入门教程，包括了所需关键数据结构以及类型�
 
 *来源：Alain Galvan*
 
-#### [CSS 现在可以使用多行省略号](https://frontendfoc.us/link/81940/rss "twitter.com")
+#### [CSS 现在可以使用多行省略号了](https://frontendfoc.us/link/81940/rss "twitter.com")
 
 现在可以在大多数浏览器中使用 [`-webkit-line-clamp` 属性](https://frontendfoc.us/link/81941/rss)了。
 
@@ -151,7 +151,7 @@ A-Frame 能够快速处理跨多个平台运行所需的3D 和 WebVR 样板，�
 
 #### [CSS Diner](https://frontendfoc.us/link/81933/rss "flukeout.github.io")
 
-这是一款基于浏览器的简洁小游戏，教你有关 CSS 选择器的知识。
+这是一款基于浏览器的简洁小游戏，教你使用 CSS 选择器。
 
 *来源：Luke Pacholski*
 

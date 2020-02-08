@@ -5,7 +5,7 @@
 如有翻译错误或国外优质文章推荐，欢迎提交 issue。
 
 ## 2020
-**一月**：[第 421 期](docs/issue-421.md):high_brightness:
+**一月**：[第 422 期](docs/issue-422.md):high_brightness: | [第 421 期](docs/issue-421.md)
 
 ## 2019
 
