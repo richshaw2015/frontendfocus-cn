@@ -30,7 +30,7 @@ function trunFefmd(md) {
             skipFlag = false;
             resultList.push(`## 📙 文章、教程、观点`);
             continue
-        } else if (line.endsWith(' & Resources**')) {
+        } else if (line.endsWith(' & Resources**') || line.endsWith(' and Resources**')) {
             skipFlag = false;
             resultList.push(`## 🔧 代码、工具、资源`);
             continue
