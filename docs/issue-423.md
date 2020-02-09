@@ -108,7 +108,7 @@ Web Share API 支持在页面上进行本机共享（通过其他应用程序或
 
 #### [纯 CSS 的轮播效果](https://frontendfoc.us/link/82292/rss "css-tricks.com")
 
-看看使用纯 HTML 和 CSS 开发轮播图或幻灯片能达到什么效果。
+看看使用纯 HTML 和 CSS 开发轮播图或幻灯片能达到的效果。
 
 *来源：Chris Coyier*
 
