@@ -12,7 +12,7 @@
 
 #### [微软基于 Chromium 的浏览器来了](https://frontendfoc.us/link/82363/rss "blogs.windows.com")
 
-新版本的 Edge 已经不是预览版了，[可以下载了](https://frontendfoc.us/link/82364/rss)。 开发者文档[可以在这里找到](https://frontendfoc.us/link/82365/rss)。（_那么它的昵称应该是 Edgium 还是 Credge 呢_ 😅）
+新版本的 Edge 已经不是预览版了，[这里下载](https://frontendfoc.us/link/82364/rss)。 开发者文档[可以在这里找到](https://frontendfoc.us/link/82365/rss)。（_那么它的昵称应该是 Edgium 还是 Credge 呢_ 😅）
 
 *来源：Kyle Pflug (Microsoft)*
 
