@@ -10,95 +10,93 @@
 
 [![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1579708549/inzqwjvzixxccjpflsax.jpg)](https://frontendfoc.us/link/82714/rss)
 
-#### [Cleaning Up the CSS Cascade](https://frontendfoc.us/link/82714/rss "wattenberger.com")
+#### [CSS 的优先级竞争规则](https://frontendfoc.us/link/82714/rss "wattenberger.com")
 
-A genuinely beautiful explanation to how browsers handle the _cascade_ in _Cascading Style Sheets_ (CSS). If you’re an expert, you might not learn much here, but it’s a resource worth passing on to others.
+浏览器如何处理 CSS 规则优先级浅显易懂的解释。如果你是专家，可能不会学到很多东西，但是很值得其他人学习。
 
 *来源：Amelia Wattenberger*
 
-#### [Native Web Components Come to Microsoft Edge (Thanks to Chromium)](https://frontendfoc.us/link/82659/rss "www.polymer-project.org")
+#### [Edge 有本地 Web 组件了（感谢Chromium）](https://frontendfoc.us/link/82659/rss "www.polymer-project.org")
 
-We mentioned [in last week's issue](https://frontendfoc.us/link/82660/rss) how Microsoft’s _Chromium_\-based version of Edge is [now available](https://frontendfoc.us/link/82661/rss), this also means that _“all major evergreen browsers now support Web Components natively.”_
+上周的文章我们提到 Edge [现在可以下载了](https://frontendfoc.us/link/82661/rss)，这也意味着_“所有主流浏览器现在都支持本地 Web 组件了。” _
 
 *来源：Polymer Project*
 
-[![](https://copm.s3.amazonaws.com/5873f427.png)](https://frontendfoc.us/link/82662/rss)
+#### ▶  [编写 3019 年的 CSS](https://frontendfoc.us/link/82669/rss "www.youtube.com")
 
-#### ▶  [Writing CSS in The Year 3019](https://frontendfoc.us/link/82669/rss "www.youtube.com")
-
-A look at how topics such as progressive enhancement, accessibility, internationalization, and performance (as it relates to writing CSS) work today and how they may change.
+看看诸如渐进式应用、可访问性、国际化和性能等主题的现状以及未来的展望。
 
 *来源：Ire Aderinokun*
 
-#### [Navigating The Web with a Gamepad](https://frontendfoc.us/link/82663/rss "www.voorhoede.nl")
+#### [使用游戏手柄浏览网页](https://frontendfoc.us/link/82663/rss "www.voorhoede.nl")
 
-A thorough look at how you can navigate a page using a gaming controller (_via the [in-draft Gamepad API](https://frontendfoc.us/link/82664/rss)_). Highlights how to move focus, use all the controller inputs and even provide feedback using the vibration motors.
+深入了解如何使用游戏手柄浏览网页（_通过 [还在草稿状态的 手柄 API](https://frontendfoc.us/link/82664/rss)_）。重点介绍如何移动焦点，使用控制器输入，甚至使用振动马达提供反馈。
 
 *来源：De Voorhoede*
 
-#### [Timeless Web Dev Articles](https://frontendfoc.us/link/82665/rss "twitter.com")
+#### [Web 开发经典文章](https://frontendfoc.us/link/82665/rss "twitter.com")
 
-This is a great Twitter thread full of links to what folks consider to be timeless articles on web development. Plenty to dig into and add to your reading list.
+这篇 Twitter 帖子包含了很多经典的 Web 开发文章，很多值得研究并加入到阅读清单里。
 
 *来源：Pavithra Kodmad on Twitter*
 
-#### [HEAD: Everything To Go In Your HTML's `head` Element](https://frontendfoc.us/link/82715/rss "github.com")
+#### [`head`标签做的所有事情](https://frontendfoc.us/link/82715/rss "github.com")
 
-From the basics up to a vast number of meta and link tags useful in various situations. We linked to this a year ago but it’s been updated over 2019 and remains a valuable resource.
+从最基础的知识到适用于各种情况下的 meta 和 link 标签。我们之前报道过，但是去年更新了很多，还是很有价值的。
 
 *来源：Josh Buchea*
 
-#### [Flow: A New Browser On The Block?](https://frontendfoc.us/link/82657/rss "www.quirksmode.org")
+#### [Flow：一个新的浏览器？](https://frontendfoc.us/link/82657/rss "www.quirksmode.org")
 
-An interview with Piers Wombwell, lead developer of [Flow](https://frontendfoc.us/link/82658/rss), a new _in-development_ browser that has a completely new multi-threaded rendering engine (with no relation to WebKit, Gecko, or Blink).
+对 [Flow](https://frontendfoc.us/link/82658/rss) 首席开发者 Piers Wombwell 的采访，Flow 是正在开发的全新的具有多线程渲染引擎（非WebKit、Gecko、Blink）的浏览器。
 
 *来源：Peter-Paul Koch*
 
 ## 📙 文章、教程、观点
 
-#### [How We Built Picture-in-Picture in Firefox Desktop with More Control Over Video](https://frontendfoc.us/link/82668/rss "hacks.mozilla.org")
+#### [我们是如何构建 Fixfox 的画中画功能的](https://frontendfoc.us/link/82668/rss "hacks.mozilla.org")
 
-A detailed behind-the-scenes look at the evolution of the Picture-in-Picture player for the Firefox Desktop browser.
+详细介绍了 Firefox 桌面版画中画功能的幕后演变。
 
 *来源：Mike Conley, Emanuela Damiani (Mozilla)*
 
-#### [Building a D3 Dashboard with React, Material UI and Cube.js](https://frontendfoc.us/link/82687/rss "d3-dashboard.cube.dev")
+#### [使用 React、Material UI、Cube.js 构建 D3 仪表盘](https://frontendfoc.us/link/82687/rss "d3-dashboard.cube.dev")
 
-Uses Postgres for the database (though you can use another, if you prefer) with React and D3 on the front end.
+数据库使用 Postgres （当然也可以使用其他）配合前端的 React 和 D3。
 
 *来源：Cube Developers*
 
-#### [Fines for EU Privacy Breaches (GDPR) Reach 114 Million Euros](https://frontendfoc.us/link/82671/rss "www.reuters.com")
+#### [欧盟隐私违规（GDPR）罚款达到1.14亿欧元](https://frontendfoc.us/link/82671/rss "www.reuters.com")
 
 *来源：Douglas Busvine*
 
-#### [Microsoft Edge for Windows 10 Finally Delivers A Top-Class Browser](https://frontendfoc.us/link/82672/rss "www.windowscentral.com")
+#### [Windows 10 下的 Edge 终于达到了顶级水平](https://frontendfoc.us/link/82672/rss "www.windowscentral.com")
 
-If you haven’t had chance to try out Microsoft’s new version of Edge yet, here’s a review outlining what to expect.
+如果你还没有尝试过新的 Edge，这里列了一些新功能。
 
 *来源：Zac Bowden*
 
-#### [Google Sunsetting Support for data-vocabulary Schema](https://frontendfoc.us/link/82673/rss "webmasters.googleblog.com")
+#### [Google 减弱对数据词汇的支持](https://frontendfoc.us/link/82673/rss "webmasters.googleblog.com")
 
-As of April 6, data-vocabulary markup will no longer be eligible for Google rich result features.
+从4月6日开始，数据词汇标签将不再符合 Google 富结果搜索条件。
 
 *来源：Dan Brickley & Moshe Samet (Google)*
 
-#### [How to Turn a Procreate Drawing into a Web Animation](https://frontendfoc.us/link/82674/rss "css-tricks.com")
+#### [如何将 Procreate 图形转换为 Web 动画](https://frontendfoc.us/link/82674/rss "css-tricks.com")
 
-_Procreate_ is an iPad drawing app.
+_Procreate_ 是一个 iPad 下的绘图应用。
 
 *来源：Sarah Drasner*
 
-#### [Understanding the “Initial”, “Inherit” and “Unset” CSS Keywords](https://frontendfoc.us/link/82675/rss "medium.com")
+#### [理解 CSS 的 “Initial”、“Inherit”、 “Unset” 关键字](https://frontendfoc.us/link/82675/rss "medium.com")
 
 *来源：Elad Shechter*
 
-#### [How To Self-Host Your Web Fonts](https://frontendfoc.us/link/82676/rss "kevq.uk")
+#### [如何自托管你的 Web 字体](https://frontendfoc.us/link/82676/rss "kevq.uk")
 
 *来源：Kev Quirk*
 
-#### [Copy to The Clipboard using JS and The Clipboard API](https://frontendfoc.us/link/82677/rss "catalin.red")
+#### [使用 JS 和剪贴板 API 复制到剪贴板](https://frontendfoc.us/link/82677/rss "catalin.red")
 
 *来源：Catalin Rosu*
 
@@ -106,27 +104,27 @@ _Procreate_ is an iPad drawing app.
 
 [![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1579689865/nfjyd7yvgnhcuxpnynpj.jpg)](https://frontendfoc.us/link/82678/rss)
 
-#### [calcolor: Calculate Colors, Share Palettes](https://frontendfoc.us/link/82678/rss "calcolor.co")
+#### [calcolor：计算颜色，共享调色板](https://frontendfoc.us/link/82678/rss "calcolor.co")
 
-The author of this nifty tool has just [written a thesis](https://frontendfoc.us/link/82679/rss) on the problems with common color models, and this web app came about following that research. It provides an alternative way to interact with digital color — Use it to preview/reference a single color, find its matching counterparts and tweak the color composition.
+其作者刚刚写了一篇关于颜色模型的[论文](https://frontendfoc.us/link/82679/rss)，这个精巧的应用就是之后开发的。它提供了和颜色交互的另一种方法，通过预览或引用一种颜色，找到其匹配的颜色或者进一步调整颜色组成。
 
 *来源：Timon Weber*
 
-#### [Polypane 2.1: Edit All Your Panes At The Same Time](https://frontendfoc.us/link/82680/rss "polypane.app")
+#### [Polypane 2.1：支持同时编辑所有窗格](https://frontendfoc.us/link/82680/rss "polypane.app")
 
-A new release of this (paid) developer-focused browser. Version 2.1 adds a nifty live CSS feature, a new meta information panel and rich snippet previews.
+Polypane 是专注于开发者的付费浏览器，2.1版本支持实时 CSS 特性、新的元信息面板和丰富的代码片段预览。
 
 *来源：Kilian Valkhof*
 
-#### [GooFonts: Google Fonts by Tags](https://frontendfoc.us/link/82681/rss "goofonts.com")
+#### [GooFonts：按标签归类的 Google 字体](https://frontendfoc.us/link/82681/rss "goofonts.com")
 
-This site has taken the 900+ available Google Fonts and tagged/grouped them all by keywords (_such as cursive, corporate, magic, funny, etc_).
+该网站收集了900多种可用的 Google 字体，并按关键字（_例如草书，企业，魔术，有趣等_）对它们进行了标记和分组。
 
 *来源：Paulina Hetman & Sylvain Guizard*
 
-#### [fitty: Makes Text Fit Perfectly](https://frontendfoc.us/link/82682/rss "github.com")
+#### [fitty：使文本完美自适应](https://frontendfoc.us/link/82682/rss "github.com")
 
-This lightweight JS package will scale up (or down) text so it fits perfectly to its parent container.
+这个轻量级的 JS 库将按比例缩放文本，使其完全适合父容器。
 
 *来源：Rik Schennink*
 
