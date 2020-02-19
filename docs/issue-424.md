@@ -24,13 +24,13 @@
 
 #### ▶  [编写 3019 年的 CSS](https://frontendfoc.us/link/82669/rss "www.youtube.com")
 
-看看诸如渐进式应用、可访问性、国际化和性能等主题的现状以及未来的展望。
+诸如渐进式应用、可访问性、国际化和性能等主题的现状以及未来的展望。
 
 *来源：Ire Aderinokun*
 
 #### [使用游戏手柄浏览网页](https://frontendfoc.us/link/82663/rss "www.voorhoede.nl")
 
-深入了解如何使用游戏手柄浏览网页（_通过 [草稿状态的 手柄 API](https://frontendfoc.us/link/82664/rss)_）。重点介绍如何移动焦点，控制输入，甚至使用振动马达提供反馈。
+深入了解如何使用游戏手柄操控网页（_通过 [草稿状态的 手柄 API](https://frontendfoc.us/link/82664/rss)_）。重点介绍如何移动焦点，控制输入，甚至使用振动马达提供反馈。
 
 ![](https://i.vimeocdn.com/videohttps://i.vimeocdn.com/video/840226766_1772.jpg)
 
@@ -44,7 +44,7 @@
 
 #### [HTML 里 `head` 标签能做的事情](https://frontendfoc.us/link/82715/rss "github.com")
 
-从最基础的知识到适用于各种场景下的 meta 和 link 标签。我们之前报道过，但是去年更新了很多内容，还是很有价值的。
+从最基础的功能到适用于各种场景下的 meta 和 link 标签。我们之前报道过，但是去年更新了很多内容，还是很有价值的。
 
 *来源：Josh Buchea*
 
@@ -86,7 +86,7 @@
 
 #### [Google 减弱对数据词汇的支持](https://frontendfoc.us/link/82673/rss "webmasters.googleblog.com")
 
-从4月6日开始，数据词汇标签将不再展示 Google 的富文本搜索结果搜。
+从4月6日开始，数据词汇标签将不再展示 Google 的富文本搜索结果。
 
 *来源：Dan Brickley & Moshe Samet (Google)*
 
