@@ -18,7 +18,7 @@ Edge 转为基于 Chromium 标志着浏览器三足鼎立时代的结束。这�
 
 #### [不使用媒体查询实现四种 CSS 布局](https://frontendfoc.us/link/82974/rss "polypane.app")
 
-你可能看过 Adam Argyle 的[推文](https://frontendfoc.us/link/82975/rss)，展示了如何使用 `flexbox` 实现更多的布局模型。这篇文章详细介绍了其工作原理。
+你可能看过 Adam Argyle 的[推文](https://frontendfoc.us/link/82975/rss)，展示了如何使用 `flexbox` 实现更多变的布局。这篇文章详细介绍了其工作原理。
 
 <video src="https://polypane.app/blogs/rw-wo-mq/resize.mp4" autoplay="" loop="" controls="" class="breakout" width="100%"></video>
 
@@ -114,7 +114,9 @@ Jake Archibald 认为人类是无法解析 URL 的，特别在安全性方面。
 
 *来源：Catalin Cimpanu*
 
-#### [SVG 的简单图像占位符](https://frontendfoc.us/link/82990/rss "cloudfour.com")
+#### [SVG 实现简单图像占位符](https://frontendfoc.us/link/82990/rss "cloudfour.com")
+
+![](https://29comwzoq712ml5vj5gf479x-wpengine.netdna-ssl.com/wp-content/uploads/2020/01/default.svg)
 
 *来源：Tyler Sticka*
 
@@ -130,11 +132,13 @@ Jake Archibald 认为人类是无法解析 URL 的，特别在安全性方面。
 
 这个流行的 [CSS 清理工具](https://frontendfoc.us/link/82994/rss)2.0版是用 TypeScript 写的，异步工作，支持删除 CSS 变量。
 
+![](https://miro.medium.com/max/3600/1*kHpLC2rHeQNgrggcrGW7tg.png)
+
 *来源：Floriel Fedry*
 
 #### [Mirage JS：面向前端开发人员的 API 模拟库](https://frontendfoc.us/link/82995/rss "miragejs.com")
 
-还没有达到1.0状态，但是看起来对于快速构建、测试和演示没有 API 的 JavaScript 应用客户端还是不错的。
+还没有达到1.0状态，但是看起来对于快速构建、测试和演示还没有后端 API 的 JavaScript 客户端还是不错的。
 
 *来源：MirageJS*
 
@@ -142,6 +146,26 @@ Jake Archibald 认为人类是无法解析 URL 的，特别在安全性方面。
 
 测试网站时需要一种快速的方法来共享你的（或他人的）浏览器信息？这个做法似乎很直接。
 
+```json
+{
+    "id": "5e5ba59be4cbcc0015e7b675",
+    "date": "2020-03-01T12:07:54.374Z",
+    "browserInfo": {
+        "browser": "Chrome",
+        "version": "80.0.3987.122",
+        "os": "Linux 64",
+        "platform": "Linux",
+        "dimensionsUnit": "px",
+        "viewportWidth": 1536,
+        "viewportHeight": 742,
+        "screenWidth": 1920,
+        "screenHeight": 1080,
+        "cookies": "Available",
+        "javascriptStatus": "Available"
+    },
+    "url": "http://mybrowser.fyi/report/5e5ba59be4cbcc0015e7b675/json"
+}
+```
 *来源：Andy Bell*
 
 #### [Screen：桌面、平板和手机的样式表](https://frontendfoc.us/link/82998/rss "screencss.com")
