@@ -16,9 +16,11 @@ In a move designed to stop unsafe downloads, starting in April, Chrome will bloc
 
 *来源：Joe DeBlasio (Google)*
 
-#### [Mozilla 在浏览器竞争中失事，但它仍然认为它可以拯救互联网](https://frontendfoc.us/link/83699/rss "www.protocol.com")
+#### [Mozilla 在浏览器竞争中落败，但它仍然认为它可以拯救互联网](https://frontendfoc.us/link/83699/rss "www.protocol.com")
 
 The inside story of Mozilla’s long, sometimes lonely and totally idealistic quest: “_The only way to fight Google, Facebook and the rest of the seemingly unstoppable tech giants is to change the structure and technology of the internet itself._”
+
+![](https://assets.rebelmouse.io/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpbWFnZSI6Imh0dHBzOi8vYXNzZXRzLnJibC5tcy8yMjY2NDU4My9vcmlnaW4uanBnIiwiZXhwaXJlc19hdCI6MTYzNzU3MTE2M30.oR4KE33WeVpZV2fI2WwSvqfr4xJzdYYN2SX9LFloooY/img.jpg?width=1245&coordinates=0%2C54%2C0%2C443&height=700)
 
 *来源：David Pierce*
 
@@ -29,6 +31,8 @@ A number of bloggers have responded to PPK’s [original article](https://fronte
 *来源：PETER-PAUL KOCH*
 
 #### [你应该自托管 Google 字体吗？](https://frontendfoc.us/link/83703/rss "www.tunetheweb.com")
+
+在性能和灵活性之间取得平衡。
 
 A detailed and considered look at what we can do to minimise the performance impact of third-party fonts, whilst also giving designers what they want - _win win_.
 
@@ -52,7 +56,7 @@ If you’ve got a lengthy article with lots of subsections, how about putting a 
 
 *来源：Chris Coyier*
 
-#### [一些虚构的 CSS](https://frontendfoc.us/link/83709/rss "cloudfour.com")
+#### [期望的 CSS 特性](https://frontendfoc.us/link/83709/rss "cloudfour.com")
 
 A bit of wish-casting here, conjuring up a half dozen or so little ideas and features that would be nice to see in the CSS of the future.
 
@@ -60,7 +64,7 @@ A bit of wish-casting here, conjuring up a half dozen or so little ideas and fea
 
 *来源：Tyler Sticka*
 
-#### ▶  [如何处理第三方脚本](https://frontendfoc.us/link/83710/rss "chasingwaterfalls.io")
+#### ▶  [如何排查第三方脚本的问题](https://frontendfoc.us/link/83710/rss "chasingwaterfalls.io")
 
 Tim Kadlec talks to designer Karolina Szczur about third-party scripts, how to identify which ones are problematic, and what you can do about it.
 
@@ -68,7 +72,11 @@ Tim Kadlec talks to designer Karolina Szczur about third-party scripts, how to i
 
 #### [Svelte：一个新的前端框架](https://frontendfoc.us/link/83712/rss "css-tricks.com")
 
+Vue、React、Angular 的竞品，前端框架真是层出不穷。
+
 [Svelte](https://frontendfoc.us/link/83713/rss) is an interesting _compile-time_ framework. Here’s why you may want to consider using it.
+
+![](https://svelte.dev/svelte-logo-outline.svg)
 
 *来源：Tristram Tolliday*
 
@@ -92,6 +100,8 @@ The new version of this popular utility-first CSS framework is described as “_
 
 This is a commercial tool (though free for non-commercial purposes) but as someone who started on the Web in the 90s, the idea of Java being compiled _to JavaScript_ continues to tickle me. 🙂 Interesting tech.
 
+![](https://miro.medium.com/max/800/1*g3w0atME-P0ST3FIBZcBvA.png)
+
 *来源：Stefano De Rossi*
 
 #### [Griddle：CSS 网格框架](https://frontendfoc.us/link/83720/rss "github.com")
@@ -100,7 +110,9 @@ A just-add-classes grid framework based on the Grid Layout module and Flexbox. I
 
 *来源：Dave Berning*
 
-#### [rgbKineticSlider WebGL Carousel](https://frontendfoc.us/link/83721/rss "github.com")
+#### [rgbKineticSlider：WebGL 实现的轮播特效](https://frontendfoc.us/link/83721/rss "github.com")
+
+demo 效果太酷炫了！
 
 A fully customizable WebGL slider/carousel based on PixiJS and GSAP. Certainly not for every project, but the [demos](https://frontendfoc.us/link/83722/rss) are worth a look.
 
@@ -114,13 +126,28 @@ A reworking of [Libre Franklin](https://frontendfoc.us/link/83725/rss) by the US
 
 [![](https://res.cloudinary.com/cpress/image/upload/w_480,e_sharpen:60/v1581425376/m8fudktgipzkahmk34lc.png)](https://frontendfoc.us/link/83724/rss)
 
-#### [darkmode-js：黑暗模式切换库](https://frontendfoc.us/link/83726/rss "github.com")
+#### [darkmode-js：暗黑主题切换库](https://frontendfoc.us/link/83726/rss "github.com")
 
 This lightweight and cross-browser library helps auto-detect a user’s local time and switch themes.
 
+```js
+<script src="darkmode.js"></script>
+<script>
+  var options = {
+    light: "light.css",
+    dark: "dark.css",
+    startAt: "23:00",
+    endAt: "06:00",
+    checkSystemScheme: true,
+    saveOnToggle: true
+  };
+  var DarkMode = new DarkMode(options);
+</script>
+```
+
 *来源：Nickolas Deny*
 
-#### [Sharect：分享选中文本到社交网络的库](https://frontendfoc.us/link/83727/rss "estevanmaito.github.io")
+#### [Sharect：分享选中文本到社交网络](https://frontendfoc.us/link/83727/rss "estevanmaito.github.io")
 
 If you’ve seen how Medium lets readers select text and share it, it’s like that, but lighter.
 
