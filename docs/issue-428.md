@@ -1,6 +1,6 @@
 # 前端聚焦周刊：第 428 期
 
-这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [Oh My RSS](https://ohmyrss.com/?fef) 平台首发。
+这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [己思](https://ohmyrss.com/?fef) 平台首发。
 
 > 原文：[Frontend Focus issue 428](https://frontendfoc.us/issues/428)
 > 
@@ -10,23 +10,25 @@
 
 [![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/temxuzubnjdxbrombrng.jpg)](https://frontendfoc.us/link/84052/rss)
 
-#### [Understanding CSS Grid Template Areas](https://frontendfoc.us/link/84052/rss "www.smashingmagazine.com")
+#### [理解 CSS Grid Template Areas](https://frontendfoc.us/link/84052/rss "www.smashingmagazine.com")
 
 `grid-template-areas` is one of my personal favorite parts of CSS Grid as it lets you specify layouts in the form of strings of text that visually represent the outcome you want. This is a thorough introduction to the idea.
 
 *来源：Rachel Andrew*
 
-#### [Why JavaScript is Eating HTML](https://frontendfoc.us/link/84053/rss "css-tricks.com")
+#### [为什么 JavaScript 正在吞噬 HTML](https://frontendfoc.us/link/84053/rss "css-tricks.com")
+
+主要是前端越来越复杂，维护分离的 HTML 和 JavaScript 十分痛苦。
 
 The idea of JavaScript and HTML remaining separate and _never the twain shall meet_ is now decidedly old-school and HTML-in-JS (a la JSX) is definitely A Thing™. Here’s a tour of all the parts involved.
 
 *来源：Mike Turley*
 
-[![](https://copm.s3.amazonaws.com/314531a0.png)](https://frontendfoc.us/link/84054/rss)
-
-#### [A Complete Guide to Web Links and Buttons](https://frontendfoc.us/link/84055/rss "css-tricks.com")
+#### [网站链接和按钮完全指南](https://frontendfoc.us/link/84055/rss "css-tricks.com")
 
 A great resource from CSS Tricks with a lot to digest here. Starts with the basic implementation of both but quickly moves into accessibility, UX flourishes, and styling.
+
+![](https://i2.wp.com/css-tricks.com/wp-content/uploads/2020/01/button-styles.png?resize=1024%2C977&ssl=1)
 
 *来源：Chris Coyier*
 
