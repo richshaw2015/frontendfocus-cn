@@ -32,19 +32,21 @@ A great resource from CSS Tricks with a lot to digest here. Starts with the basi
 
 *来源：Chris Coyier*
 
-#### [While You Weren't Looking, CSS Gradients Got Better](https://frontendfoc.us/link/84056/rss "css-tricks.com")
+#### [你可能没关注，CSS 渐变正变得更好](https://frontendfoc.us/link/84056/rss "css-tricks.com")
 
 Unless you are some sort of CSS gradient expert, you are going to learn something here. Avoiding repetition by not having to repeat colors anymore is a huge win, IMHO.
 
+![](https://css-tricks.com/wp-content/uploads/2020/01/spectrum.svg)
+
 *来源：Ana Tudor*
 
-#### ['Scroll To Text Fragment' Now in Chrome 80+](https://frontendfoc.us/link/84057/rss "chromestatus.com")
+#### [Chrome 80 以后支持 'Scroll To Text Fragment'](https://frontendfoc.us/link/84057/rss "chromestatus.com")
 
 Last year we mentioned the [Text Fragments spec](https://frontendfoc.us/link/84058/rss) which will let you link directly to specific content within Web pages that _doesn’t_ have an associated anchor element.. and Chrome now supports it although the formatting of the fragment name isn’t particularly elegant.
 
 *来源：Chrome Platform Status*
 
-#### [First Public Working Draft for Resize Observer](https://frontendfoc.us/link/84059/rss "www.w3.org")
+#### [调整元素大小的第一份公共草案](https://frontendfoc.us/link/84059/rss "www.w3.org")
 
 An interesting new spec from the W3C (_based on the same concept as MutationObserver or IntersectionObserver_) that lets you observe for changes to an element’s size.
 
@@ -52,79 +54,99 @@ An interesting new spec from the W3C (_based on the same concept as MutationObse
 
 ## 📙 文章、教程、观点
 
-#### [Same HTML, Different CSS](https://frontendfoc.us/link/84061/rss "ishadeed.com")
+#### [相同的 HTML，不同的 CSS](https://frontendfoc.us/link/84061/rss "ishadeed.com")
 
 This is a step-by-step tutorial based on a concept from the old CSS Zen Garden site: Creating different designs via CSS while never touching the markup.
 
+![](https://ishadeed.com/assets/unique-design/article-header-variations.png)
+
 *来源：Ahmad Shadeed*
 
-#### [Building a Performant Front-End Architecture](https://frontendfoc.us/link/84062/rss "www.debugbear.com")
+#### [构建高性能的前端架构](https://frontendfoc.us/link/84062/rss "www.debugbear.com")
 
 A technical writeup of the key things to consider performance-wise when building a front-end.
 
+![](https://www.debugbear.com/public/blog/performant-front-end-architecture/performant-front-end-architecture.png)
+
 *来源：DebugBear*
 
-#### [Four Creative Ways to JavaScript Timing in Browsers](https://frontendfoc.us/link/84064/rss "blog.omaralshaker.com")
+#### [四种创新方法实现 JavaScript 计时](https://frontendfoc.us/link/84064/rss "blog.omaralshaker.com")
+
+介绍了如下四种方法：Web Worker 中使用无限同步循环、CSS 动画、SVG 标签、Web Animations API。
 
 Interesting alternatives for `setTimeout`, `setInterval`, and `requestAnimationFrame`.
 
+![](https://blog.omaralshaker.com/images/postsImages/time.jpg)
+
 *来源：Omar Alshaker*
 
-#### [How to Make a WebGL-Powered US Counties Map with D3 and Three.js](https://frontendfoc.us/link/84065/rss "tips4devs.com")
+#### [如何用 D3 和 Three.js 开发基于 WebGl 的美国地图](https://frontendfoc.us/link/84065/rss "tips4devs.com")
 
 Creating a simple SVG-based map is one thing, but if you want the best performance, leaning on WebGL and your GPU is a good option. This tutorial covers how to approach moving from SVG to WebGL by way of Three.js.
 
+![](https://tips4devs.com/article-assets/make-a-webgl-powered-us-counties-map-with-d3-and-three-js/map.gif)
+
 *来源：Mika Iriarte*
 
-#### [How to Build a Tinder-like Carousel in Vanilla JavaScript](https://frontendfoc.us/link/84066/rss "www.hackdoor.io")
+#### [如何在 JavaScript 中构建 Tinder 效果的轮播图](https://frontendfoc.us/link/84066/rss "www.hackdoor.io")
 
 *来源：Simone Manzi*
 
-#### [Building an Image Gallery using PixiJS and WebGL](https://frontendfoc.us/link/84067/rss "css-tricks.com")
+#### [使用 PixiJS 和 WebGL 构建图库](https://frontendfoc.us/link/84067/rss "css-tricks.com")
 
 This goes beyond your typical image gallery with an interesting 3D effect. Lots of bits and pieces here to learn.
 
+![](https://paper-attachments.dropbox.com/s_9D83426E20A4AF07FC302A30198020A55A71B0CFDCF3AA77FCDE8656BA177B77_1558813948355_inspiration.gif)
+
 *来源：Luis Torres*
 
-#### [Aborting a Fetch API Request](https://frontendfoc.us/link/84068/rss "meetguns.com")
+#### [中止 API 请求](https://frontendfoc.us/link/84068/rss "meetguns.com")
 
 The Fetch API didn’t have the ability to abort a request in its early days (unlike `XMLHttpRequest`) but AbortController and AbortSignal can help you get the job done on [all modern browsers.](https://frontendfoc.us/link/84069/rss)
 
+![](https://meetguns.com/static/2de476e9c913fe7c05e735aa87da3301/a4b53/cover.webp)
+
 *来源：Ganapati V S*
 
-#### [How to Apply CSS3 Transforms to Background Images](https://frontendfoc.us/link/84070/rss "www.sitepoint.com")
+#### [如何将 CSS3 转换特效应用于背景图像](https://frontendfoc.us/link/84070/rss "www.sitepoint.com")
 
 A neat trick for applying CSS3 transforms (rotating and skewing elements) to your backgrounds.
 
+![](http://blogs.sitepointstatic.com/images/tech/589-transform-background-100pc.png)
+
 *来源：Craig Buckler*
 
-#### [(Please) Use `a:visited` in Your CSS Stylesheet](https://frontendfoc.us/link/84071/rss "evertpot.com")
+#### [请在 CSS 中使用 `a:visited`](https://frontendfoc.us/link/84071/rss "evertpot.com")
 
 Help your visitors know which links they already visited. I can’t really argue with this.
 
+![](https://evertpot.com/assets/posts/aws.png)
+
 *来源：Evert Pot*
 
-#### [Don't Touch My Clipboard](https://frontendfoc.us/link/84072/rss "alexanderell.is")
+#### [不要碰我的剪切板](https://frontendfoc.us/link/84072/rss "alexanderell.is")
 
 You can (but shouldn’t) change how people copy text from your site.
 
+![](https://alexanderell.is/posts/taking-over-my-clipboard/the-punctuation-guide.png)
+
 *来源：Alex Ellis*
 
-#### [An Accessibility Review of Squarespace, Wix, and Weebly](https://frontendfoc.us/link/84073/rss "terrillthompson.com")
+#### [Squarespace、Wix、Weebly 在可访问性方面的实践回顾](https://frontendfoc.us/link/84073/rss "terrillthompson.com")
 
 If you’re reading this newsletter you’re probably building your own pages from scratch or with a framework, but have you ever wondered just how good pages produced by tools like Squarespace or Wix are?
 
 *来源：Terrill Thompson*
 
-#### [Four Reasons to Still Use Sass in Your Frontend Project](https://frontendfoc.us/link/84074/rss "blog.bitsrc.io")
+#### [仍然使用 Sass 的四个原因](https://frontendfoc.us/link/84074/rss "blog.bitsrc.io")
+
+![](https://miro.medium.com/max/2000/1*2i61LZma68XjLu5r9rLv9A.png)
 
 *来源：Sonny Recio*
 
-*来源：Web Font of the Week*
-
 #### [JetBrains Mono](https://frontendfoc.us/link/84075/rss)
 
-*来源：From the creators of many a popular IDE comes a free and open source font specifically aimed at developers. I admit I'm a sucker for a monospaced font on the Web, but your mileage may vary.*
+From the creators of many a popular IDE comes a free and open source font specifically aimed at developers. I admit I'm a sucker for a monospaced font on the Web, but your mileage may vary.
 
 [![](https://res.cloudinary.com/cpress/image/upload/w_480,e_sharpen:60/v1582045747/iya8ck4m0ldou7qczvyk.png)](https://frontendfoc.us/link/84075/rss)
 
@@ -144,19 +166,19 @@ There are two nifty tools here, a type scale calculator, and a CSS generator - b
 
 *来源：James Gilyead and Trys Mudford*
 
-#### [plink-plonk.js: Listen to Web Pages As Their DOM Changes](https://frontendfoc.us/link/84078/rss "gist.github.com")
+#### [plink-plonk.js：监听 DOM 变化](https://frontendfoc.us/link/84078/rss "gist.github.com")
 
 **This is really cool.** Run this code at a console on a ‘busy’ Web page with lots of DOM changes and updates and you’ll be able to ‘hear’ them taking place.
 
 *来源：Tom Hicks*
 
-#### [Croppola: Quick Web-Based Image Cropping](https://frontendfoc.us/link/84079/rss "croppola.com")
+#### [Croppola：基于 Web 的快速图像裁剪工具](https://frontendfoc.us/link/84079/rss "croppola.com")
 
 These sorts of quick online tools sometimes seem a dime and dozen but this is so quick and simple, I had to recommend it.
 
 *来源：Croppola*
 
-#### [Axe 3.5: Accessibility for Development Teams](https://frontendfoc.us/link/84080/rss "www.deque.com")
+#### [Axe 3.5：开发团队的可访问性检测工具](https://frontendfoc.us/link/84080/rss "www.deque.com")
 
 The popular accessibility testing toolkit is now at 3.5. Includes a better color contrast test, several new rules, bug fixes, and Danish localisation.
 
@@ -169,4 +191,3 @@ The popular accessibility testing toolkit is now at 3.5. Includes a better color
 ## 🗓 未来大事记
 
 译者注：如需了解，请[查看原文](https://frontendfoc.us/issues/428)。
-
