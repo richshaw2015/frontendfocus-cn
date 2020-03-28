@@ -136,6 +136,8 @@ You can (but shouldn’t) change how people copy text from your site.
 
 If you’re reading this newsletter you’re probably building your own pages from scratch or with a framework, but have you ever wondered just how good pages produced by tools like Squarespace or Wix are?
 
+![](http://terrillthompson.com/wp-content/uploads/2020/02/Squarespace-headings.png)
+
 *来源：Terrill Thompson*
 
 #### [仍然使用 Sass 的四个原因](https://frontendfoc.us/link/84074/rss "blog.bitsrc.io")
@@ -144,7 +146,7 @@ If you’re reading this newsletter you’re probably building your own pages fr
 
 *来源：Sonny Recio*
 
-#### [JetBrains Mono](https://frontendfoc.us/link/84075/rss)
+#### [JetBrains Mono 字体](https://frontendfoc.us/link/84075/rss)
 
 From the creators of many a popular IDE comes a free and open source font specifically aimed at developers. I admit I'm a sucker for a monospaced font on the Web, but your mileage may vary.
 
