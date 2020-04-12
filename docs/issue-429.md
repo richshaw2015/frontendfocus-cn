@@ -112,6 +112,8 @@ This survey from Mozilla is looking to find out what your pain points are in reg
 
 #### [Google PageSpeed 解读：评分 100/100 的真相](https://frontendfoc.us/link/84423/rss "kinsta.com")
 
+![](https://kinsta.com/wp-content/uploads/2020/01/pagespeed-insights-score-1.png)
+
 *来源：Brian Jackson*
 
 #### ▶  [使用 Chrome DevTools 延迟加载图片](https://frontendfoc.us/link/84425/rss "www.youtube.com")
@@ -142,6 +144,8 @@ I think this project’s site could win an award for sheer _elegance_, but it’
 
 The on-page demo works really nicely. You can easily resize the elements to fit after dragging them around. It’s basically a customizable masonry layout.
 
+![](https://camo.githubusercontent.com/f15655cd66f304080e50b6a8c6a106e708239af4/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f646d74726b33796e732f766964656f2f75706c6f61642f715f6175746f2f76313536353435353336362f6963655f766964656f5f32303139303831302d3230323935345f6675717578742e676966)
+
 *来源：Vahe Araqelyan*
 
 #### [Lion：高性能、灵活、可用性好的 Web 组件库](https://frontendfoc.us/link/84433/rss "github.com")
@@ -154,12 +158,29 @@ From ING, known for their work with components, this is a set of feature-complet
 
 Still in early development. A TypeScipt- and Canvas-based game engine designed to feel similar to React.
 
+![](https://github.com/suchipi/hex-engine/raw/master/logo-image.png)
+
 *来源：Lily Scott*
 
 #### [monica.css](https://frontendfoc.us/link/84436/rss "meowni.ca")
 
 A really tiny set of helper classes to make it easier to work with flexbox layouts.
 
+```css
+* {box-sizing: border-box}
+[hidden] {display: none !important}
+[disabled] {pointer-events:none; opacity: 0.3}
+.horizontal {display: flex; flex-direction: row; justify-content: space-between}
+.vertical {display: flex; flex-direction: column}
+.center {justify-content: center; align-items: center}
+.flex {flex: 1}
+html {
+  --spacing-xs: 8px;
+  --spacing: 24px;
+  --spacing-s: 12px;
+  --spacing-m: 36px;
+}
+```
 *来源：Monica Dinculescu*
 
 ## 💻 招聘
