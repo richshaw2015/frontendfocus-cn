@@ -10,7 +10,7 @@
 
 [![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1583342414/inikzzeudmdeu2teiok9.png)](https://frontendfoc.us/link/84745/rss)
 
-#### [为什么 GOV.UK 设计团队更改了数字的输入类型](https://frontendfoc.us/link/84745/rss "technology.blog.gov.uk")
+#### [为什么 GOV.UK 设计团队更改了数字输入类型](https://frontendfoc.us/link/84745/rss "technology.blog.gov.uk")
 
 Highlights how the `<input type="number">` element can be somewhat problematic in some scenarios, and offers up a solution.
 
@@ -24,7 +24,7 @@ From September 1, any new certificate valid for more than 398 days will be rejec
 
 *来源：The Register*
 
-#### [不断进化的编码规范](https://frontendfoc.us/link/84734/rss "bradfrost.com")
+#### [进化的编码规范](https://frontendfoc.us/link/84734/rss "bradfrost.com")
 
 Covers the significance of establishing code guidelines and standards at the beginning of a project, and the importance of evolving those standards as a project progresses.
 
@@ -38,7 +38,7 @@ This update briefly discusses the first drafts for four specs: CSS Color Module 
 
 *来源：W3C*
 
-#### [Brave 浏览器自动对 404 页面指向历史版本](https://frontendfoc.us/link/84739/rss "www.theverge.com")
+#### [Brave 浏览器自动将 404 页面指向历史版本](https://frontendfoc.us/link/84739/rss "www.theverge.com")
 
 The web browser can now detect when a webpage is unavailable and will offer to search the Wayback Machine for a backup. The feature isn’t just for 404 errors though, as it will also trigger when hitting a 408, 410, 451, 500, 502, 503, 504, 509, 520, 521, 523, 524, 525, or 526 error.
 
@@ -68,7 +68,7 @@ Each of the 10 methods has an accompanying chart that looks at various pros/cons
 
 The concept here is based on the fact that the values of CSS custom properties aren’t evaluated until they’re used. This kinda sorta resembles ‘currying’ in JS.
 
-```
+```css
 :root {
   --card-padding: 40px;
   --card-background: #FAFAFA;
@@ -122,6 +122,8 @@ A step-by-step tutorial building a search bar component. Good for those already 
 
 #### [使用 Vanilla.js 构建单页应用（SPA）](https://frontendfoc.us/link/84751/rss "blog.jeremylikness.com")
 
+![](https://blog.jeremylikness.com/blog/build-a-spa-site-with-vanillajs/images/vanillin.png)
+
 *来源：Jeremy Likness*
 
 ## 🔧 代码、工具、资源
@@ -134,7 +136,7 @@ This nifty browser-based tool can create smooth looking layered `box-shadows`. T
 
 *来源：Philipp Brumm*
 
-#### [Heroicons：免费的 MIT 许可的 UI 开发高质量 SVG 图标](https://frontendfoc.us/link/84757/rss "github.com")
+#### [Heroicons：免费的 MIT 许可的高质量 UI 开发 SVG 图标](https://frontendfoc.us/link/84757/rss "github.com")
 
 140 icons in total, available in solid or outline style.
 

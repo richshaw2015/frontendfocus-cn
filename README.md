@@ -6,7 +6,7 @@
 
 ## 2020
 
-**三月**：[第 429 期](docs/issue-429.md):high_brightness:
+**三月**：[第 430 期](docs/issue-430.md):high_brightness: | [第 429 期](docs/issue-429.md)
 
 **二月**：[第 428 期](docs/issue-428.md) | [第 427 期](docs/issue-427.md) | [第 426 期](docs/issue-426.md) | [第 425 期](docs/issue-425.md)
 
