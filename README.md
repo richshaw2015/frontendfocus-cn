@@ -5,8 +5,9 @@
 如有翻译错误或国外优质文章推荐，欢迎提交 issue。
 
 ## 2020
+**四月**：[第 433 期](docs/issue-443.md):high_brightness:
 
-**三月**：[第 432 期](docs/issue-432.md):high_brightness: ｜ [第 431 期](docs/issue-431.md) | [第 430 期](docs/issue-430.md) | [第 429 期](docs/issue-429.md)
+**三月**：[第 432 期](docs/issue-432.md) ｜ [第 431 期](docs/issue-431.md) | [第 430 期](docs/issue-430.md) | [第 429 期](docs/issue-429.md)
 
 **二月**：[第 428 期](docs/issue-428.md) | [第 427 期](docs/issue-427.md) | [第 426 期](docs/issue-426.md) | [第 425 期](docs/issue-425.md)
 

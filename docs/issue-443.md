@@ -163,7 +163,7 @@ An interesting use for WebAssembly here. Originally built for J P Morgan, Perspe
 
 *来源：The Fintech Open Source Foundation*
 
-#### [更好的 CSS 键盘按钮](https://frontendfoc.us/link/89480/rss "shkspr.mobi")
+#### [更好的键盘 CSS](https://frontendfoc.us/link/89480/rss "shkspr.mobi")
 
 A quick way to improve the readability of keyboard shortcuts when you’re mentioning them in text. I love simple little solutions like this.
 
