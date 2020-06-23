@@ -8,11 +8,11 @@
 
 ## 🚀 刊首
 
-[![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1585745223/akh5g30pjoeblo0ordsv.png)](https://frontendfoc.us/link/86072/rss)
-
 #### [Chrome 表单控件和焦点的更新](https://frontendfoc.us/link/86072/rss "blog.chromium.org")
 
 Here’s a closer look at the recent changes introduced to HTML form controls within Chrome, designed to “_beautiful, webby, and neutral_”. They bring with them a host of accessibility wins, touch support, and more consistent keyboard access.
+
+![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1585745223/akh5g30pjoeblo0ordsv.png)
 
 *来源：Rob Dodson (Google)*
 
