@@ -36,7 +36,7 @@ Version 2 just launched, [details here](https://frontendfoc.us/link/86480/rss). 
 
 *来源：luke jackson*
 
-#### [Extending the Limits of CSS](https://frontendfoc.us/link/86485/rss "www.welcometothejungle.com")
+#### [探索 CSS 的极限](https://frontendfoc.us/link/86485/rss "www.welcometothejungle.com")
 
 This is a bit of a history lesson on CSS, specifically dealing with how some in the community have done things with CSS that at one time nobody thought would be possible.
 
@@ -74,13 +74,13 @@ A fun little project if you want to play along.
 
 *来源：Jad Joubran*
 
-#### [Getting JavaScript to Talk to CSS and Sass](https://frontendfoc.us/link/86488/rss "css-tricks.com")
+#### [让 JavaScript 和 CSS、Sass 通讯](https://frontendfoc.us/link/86488/rss "css-tricks.com")
 
 Despite being bedfellows for years, sharing data between JavaScript and CSS has not always been the simplest task.
 
 *来源：Marko Ilic*
 
-#### [用 CSS 创建动画加载文本](https://frontendfoc.us/link/86490/rss "codinhood.com")
+#### [用 CSS 创建加载文本动效](https://frontendfoc.us/link/86490/rss "codinhood.com")
 
 A neat little effect, getting text to move up and down like a wave.
 
@@ -112,7 +112,7 @@ A good list of options for libraries that are built with accessibility in mind.
 
 *来源：Raghavendra Satish Peri*
 
-#### [MVP.css: A Minimalist Stylesheet for HTML Elements](https://frontendfoc.us/link/86495/rss "andybrewer.github.io")
+#### [MVP.css：最小化的 HTML 样式](https://frontendfoc.us/link/86495/rss "andybrewer.github.io")
 
 No class names, no frameworks, just semantic HTML. 7kb.
 
