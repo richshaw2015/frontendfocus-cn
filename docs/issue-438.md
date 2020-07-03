@@ -8,51 +8,57 @@
 
 ## 🚀 刊首
 
-[![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1588150502/t74toluzzntgrl6qsiq7.jpg)](https://frontendfoc.us/link/87419/rss)
-
-*来源：Current browser support for CSS math functions. Via: [caniuse.com](https://frontendfoc.us/link/87420/rss)*
-
-#### ▶  [`min(),` max()`, and` clamp()\` Are CSS Magic](https://frontendfoc.us/link/87419/rss "www.youtube.com")
+#### ▶  [`min(),` max()`, and` clamp()` 等 CSS 魔术方法](https://frontendfoc.us/link/87419/rss "www.youtube.com")
 
 The `min`, `max`, and `clamp` functions are now starting to see [more widespread browser support](https://frontendfoc.us/link/87420/rss). Here’s a video running through how these properties can be used to really open up responsive typography techniques.
 
+[![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1588150502/t74toluzzntgrl6qsiq7.jpg)](https://frontendfoc.us/link/87419/rss)
+
 *来源：Kevin Powell*
 
-#### [Accessible Font Sizing, Explained](https://frontendfoc.us/link/87421/rss "css-tricks.com")
+#### [无障碍化的字体大小及解释](https://frontendfoc.us/link/87421/rss "css-tricks.com")
 
 Bootstrap core team member Andrés Galante runs through how we can ensure our font sizes are accessible by asking what sort of best practices we can rely on to make an accessible reading experience.
 
+![](https://css-tricks.com/wp-content/uploads/2020/04/Frame-1-1.svg)
+
 *来源：CSS-Tricks*
 
-[![](https://copm.s3.amazonaws.com/3635ea29.jpeg)](https://frontendfoc.us/link/87422/rss)
-
-#### [CSS for Internationalisation](https://frontendfoc.us/link/87423/rss "www.chenhuijing.com")
+#### [CSS 国际化](https://frontendfoc.us/link/87423/rss "www.chenhuijing.com")
 
 An excellent guide to the various features in CSS that can be used as part of an internationalisation strategy that goes beyond mere translation.
 
+![](https://chenhuijing.com/assets/images/posts/css-i18n/chrome@2x.png)
+
 *来源：Chen Hui Jing*
 
-#### [AMP Introduces 'User-Friendly' Content Encryption Support](https://frontendfoc.us/link/87450/rss "blog.amp.dev")
+#### [AMP 引入用户友好的加密支持](https://frontendfoc.us/link/87450/rss "blog.amp.dev")
 
 AMP aims to be all about providing speed to mobile consumers of content but paywalls just, well, get in the way. So Google and the AMP folks have come up with a way where protected content can be served and unlocked client-side for more performance. Cynically, of course, you _could_ consider this yet another form of DRM for Web content...
 
+![](https://blog.amp.dev/wp-content/uploads/2020/04/image3-1.png)
+
 *来源：The AMP Blog*
 
-#### [Responsive Web And Desktop Development With Flutter](https://frontendfoc.us/link/87424/rss "www.smashingmagazine.com")
+#### [使用 Flutter 开发响应式 Web 和桌面应用](https://frontendfoc.us/link/87424/rss "www.smashingmagazine.com")
 
 A look at the current state of Flutter for browser-based apps and how to create a responsive app using it.
+
+![](https://cloud.netlifyusercontent.com/assets/344dbf88-fdf9-42bb-adb4-46f01eedd629/bd8fe14b-2d46-4886-8b1a-b4c63966bda5/03-responsive-web-desktop-development-with-flutter-opt.gif)
 
 *来源：Carmine Zaccagnino*
 
 ## 📙 文章、教程、观点
 
-#### [Spacing in CSS](https://frontendfoc.us/link/87428/rss "ishadeed.com")
+#### [CSS 中的间距](https://frontendfoc.us/link/87428/rss "ishadeed.com")
 
 This is pretty much everything you need to know about spacing in CSS, covering grid layout, flexbox, positioning, and lots more.
 
+![](https://ishadeed.com/assets/spacing-css/margin-collapse.png)
+
 *来源：Ahmad Shadeed*
 
-#### ▶  [Performance Profiling for Web Applications](https://frontendfoc.us/link/87429/rss "www.youtube.com")
+#### ▶  [Web 应用的性能分析](https://frontendfoc.us/link/87429/rss "www.youtube.com")
 
 An overview of how to use Chrome DevTools to understand a Web application’s performance bottlenecks.
 
@@ -70,27 +76,35 @@ As with the video featured above, here's a quick look at how to use `min`, `max`
 
 *来源：Steve Fenton*
 
-#### [Creating A Lightweight CSS-Only Tooltip for All Screen Sizes](https://frontendfoc.us/link/87433/rss "rimdev.io")
+#### [纯 CSS 实现的适用所有屏幕尺寸的提示](https://frontendfoc.us/link/87433/rss "rimdev.io")
+
+![](https://rimdev.io/images/css-only-tooltip.png)
 
 *来源：Ted Krueger*
 
-#### [How to Make A Reading Progress Bar for Your Blog](https://frontendfoc.us/link/87434/rss "dev.to")
+#### [为你的博客适配阅读进度条](https://frontendfoc.us/link/87434/rss "dev.to")
+
+```html
+<progress id="reading-progress" max="100" value="0" ></progress>
+```
 
 *来源：Rob OLeary*
 
 ## 🔧 代码、工具、资源
 
-[![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1588075777/qxoxgagj1u5ziukvtnqe.png)](https://frontendfoc.us/link/87435/rss)
-
 #### [98.css: A Design System for Building Faithful Recreations of Old UIs](https://frontendfoc.us/link/87435/rss "jdan.github.io")
 
 If for any reason you need to your interface to look like Windows 98 then this library has you sorted. [Here’s the associated repo](https://frontendfoc.us/link/87436/rss).
+
+[![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1588075777/qxoxgagj1u5ziukvtnqe.png)](https://frontendfoc.us/link/87435/rss)
 
 *来源：Jordan Scales*
 
 #### [Color Accessibility: Tools and Resources to Help You Design Inclusive Products](https://frontendfoc.us/link/87437/rss "stephaniewalter.design")
 
 We’ve linked to this before, but it’s recently been updated and remains a solid resource.
+
+![](https://stephaniewalter.design/wp-content/uploads/2019/04/cloudfour-contrast-tool.jpg)
 
 *来源：Stéphanie Walter*
 
@@ -106,7 +120,7 @@ Includes a “lite” (only gray) and “full” version. This is similar to uti
 
 *来源：Jiten Bansal*
 
-#### [1loc: A Collection of One-line JS Snippets](https://frontendfoc.us/link/87441/rss "1loc.dev")
+#### [1loc：一行 JS 代码片段集合](https://frontendfoc.us/link/87441/rss "1loc.dev")
 
 A neat little collection of vanilla JavaScript one-liners divided into various categories (arrays, date/time, DOM, etc).
 
