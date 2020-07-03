@@ -124,6 +124,11 @@ Includes a “lite” (only gray) and “full” version. This is similar to uti
 
 A neat little collection of vanilla JavaScript one-liners divided into various categories (arrays, date/time, DOM, etc).
 
+```js
+// `arr` is an array
+const isEmpty = arr => !(Array.isArray(arr) && arr.length > 0 && arr.filter(el => el === undefined).length > 0)
+```
+
 *来源：Nguyen Huu Phuoc*
 
 ## 🕰 推荐拾遗
