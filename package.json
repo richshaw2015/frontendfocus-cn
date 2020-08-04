@@ -7,9 +7,9 @@
     "jsdom": false
   },
   "dependencies": {
-    "turndown": "^5.0.3",
-    "rss-parser": "^3.7.3",
-    "translation.js": "^0.7.5"
+    "rss-parser": "^3.9.0",
+    "translation.js": "^0.7.15",
+    "turndown": "^5.0.3"
   },
   "devDependencies": {},
   "keywords": [
