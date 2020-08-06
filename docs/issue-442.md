@@ -16,7 +16,7 @@ Ten years ago the phrase ‘responsive web design’ was first coined. [This gui
 
 *来源：Ethan Marcotte*
 
-#### [Edge 自 2020 年的所有新功能](https://frontendfoc.us/link/88995/rss "blogs.windows.com")
+#### [Edge 自 2020 年以来的所有新功能](https://frontendfoc.us/link/88995/rss "blogs.windows.com")
 
 _Microsoft Build 2020_ took place entirely online for the first time last week but it wasn’t short of announcements and great talks, particularly for MS’s _Edge_ browser. Here's [a video roundup](https://frontendfoc.us/link/88996/rss) of what's new if you'd prefer.
 
@@ -58,13 +58,13 @@ Caleb Williams looks at the `line-height` property, “probably one of the most 
 
 *来源：CSS Tricks*
 
-#### ▶  [如何使用 Flexbox 水平和垂直居中元素](https://frontendfoc.us/link/89008/rss "egghead.io")
+#### ▶  [如何使用 Flexbox 水平和垂直居中](https://frontendfoc.us/link/89008/rss "egghead.io")
 
 You’ve heard all the jokes about the difficult of center aligning things with CSS, but laugh no more as Ali demonstrates how to do it in just a minute.
 
 *来源：Ali Spittel*
 
-#### [在 iPhone 上进行本地调试](https://frontendfoc.us/link/89006/rss "joshwcomeau.com")
+#### [iPhone 本地调试](https://frontendfoc.us/link/89006/rss "joshwcomeau.com")
 
 You should be testing on a real-world mobile device, so here’s a nice and quick way to get your localhost server running on an iPhone with the help of ngrok.
 
@@ -93,7 +93,7 @@ You’ll no doubt learn something here.
 
 *来源：Manuel Matuzović*
 
-#### [How to Make a Simple CMS with Cloudflare, GitHub Actions and Metalsmith](https://frontendfoc.us/link/89009/rss "css-tricks.com")
+#### [使用 Cloudflare、GitHub Actions、Metalsmith 开发一个简单的 CMS 系统](https://frontendfoc.us/link/89009/rss "css-tricks.com")
 
 Let’s say you want to build a CMS but don’t want to mess with the fiddly UI bit.. how about using GitHub itself? Couple that with the Metalsmith static site generator and Cloudflare Workers.. and here you go.
 
@@ -127,7 +127,7 @@ Let’s say you want to build a CMS but don’t want to mess with the fiddly UI 
 
 *来源：Jon Paul Uritis*
 
-#### [`target="_blank"`——被低估的一个安全漏洞](https://frontendfoc.us/link/89011/rss "www.manjuladube.dev")
+#### [`target="_blank"` — 一个被低估的安全漏洞](https://frontendfoc.us/link/89011/rss "www.manjuladube.dev")
 
 Why `rel="noopener"` should be added to links containing `target="_blank"` as a precaution against reverse ‘tabnabbing’.
 
@@ -165,7 +165,7 @@ This is a little different. This framework doesn’t have any effect on design v
 
 *来源：Frankie*
 
-#### [LaTeX.css: Make Your Site Look (More) Like a LaTeX Document](https://frontendfoc.us/link/89021/rss "latex.now.sh")
+#### [LaTeX.css：让你的网站更像一个 LaTeX 文档](https://frontendfoc.us/link/89021/rss "latex.now.sh")
 
 [LaTeX](https://frontendfoc.us/link/89023/rss) is a popular typesetting system frequently used in academia and mathematic or scientific documentation.
 
@@ -175,7 +175,7 @@ This is a little different. This framework doesn’t have any effect on design v
 
 *来源：Vincent Dörig*
 
-#### [Howler.js: An Audio Library for The Modern Web](https://frontendfoc.us/link/89025/rss "github.com")
+#### [Howler.js：现代网站的音频库](https://frontendfoc.us/link/89025/rss "github.com")
 
 Makes things easier cross-platform. Uses the Web Audio API but can fall back to HTML5 Audio.
 
@@ -183,7 +183,7 @@ Makes things easier cross-platform. Uses the Web Audio API but can fall back to 
 
 *来源：James Simpson*
 
-#### [LineIcons: 2000+ Free Line Icons for Designers and Developers](https://frontendfoc.us/link/89027/rss "lineicons.com")
+#### [LineIcons：2000+ 免费的线条图标](https://frontendfoc.us/link/89027/rss "lineicons.com")
 
 A nice looking set of line-based icons, categorized, and available in a number of different formats including web font, SVG, AI, and more.
 
