@@ -5,7 +5,7 @@
 如有翻译错误或国外优质文章推荐，欢迎提交 issue。
 
 ## 2020
-**六月**：[第 441 期](docs/issue-441.md):high_brightness:
+**六月**：[第 442 期](docs/issue-442.md) | [第 441 期](docs/issue-441.md):high_brightness:
 
 **五月**：[第 440 期](docs/issue-440.md) | [第 439 期](docs/issue-439.md) | [第 438 期](docs/issue-438.md) | [第 437 期](docs/issue-437.md) 
 
