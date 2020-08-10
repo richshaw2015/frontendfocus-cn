@@ -6,6 +6,7 @@
 
 ## 2020
 **七月**：[第 444 期](docs/issue-444.md):high_brightness:
+
 **六月**：[第 443 期](docs/issue-433.md) | [第 442 期](docs/issue-442.md) | [第 441 期](docs/issue-441.md)
 
 **五月**：[第 440 期](docs/issue-440.md) | [第 439 期](docs/issue-439.md) | [第 438 期](docs/issue-438.md) | [第 437 期](docs/issue-437.md) 
