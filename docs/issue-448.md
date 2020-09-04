@@ -8,7 +8,7 @@
 
 ## 🚀 刊首
 
-#### [Chrome 中的新 TAB：'CSS Overview'](https://frontendfoc.us/link/91446/rss "css-tricks.com")
+#### [Chrome 新 TAB：'CSS Overview'](https://frontendfoc.us/link/91446/rss "css-tricks.com")
 
 This new experimental feature in Chrome looks really neat. It provides an overview of the CSS on a site, detailing colors, fonts, media queries and unused declarations.
 
@@ -16,7 +16,7 @@ This new experimental feature in Chrome looks really neat. It provides an overvi
 
 *来源：Robin Rendle*
 
-#### [What's New in CSS – July 2020 Edition](https://frontendfoc.us/link/91447/rss "www.smashingmagazine.com")
+#### [CSS 的新特性 – 202007 版](https://frontendfoc.us/link/91447/rss "www.smashingmagazine.com")
 
 Rachel Andrew takes a look at some of the interesting CSS features that are making their way into browsers right now, including Flexbox gap support, the aspect ratio unit, and more.
 
@@ -24,7 +24,7 @@ Rachel Andrew takes a look at some of the interesting CSS features that are maki
 
 *来源：Smashing Magazine*
 
-#### [网站黑暗模式完全指南](https://frontendfoc.us/link/91448/rss "css-tricks.com")
+#### [网站暗黑模式完全指南](https://frontendfoc.us/link/91448/rss "css-tricks.com")
 
 Covers different options and approaches (_design, technical considerations, etc_) for implementing dark mode.
 
@@ -32,7 +32,7 @@ Covers different options and approaches (_design, technical considerations, etc_
 
 *来源：Mohamed Adhuham*
 
-#### [Web 开发的黑暗时代](https://frontendfoc.us/link/91451/rss "pavellaptev.github.io")
+#### [Web 开发的至暗时代](https://frontendfoc.us/link/91451/rss "pavellaptev.github.io")
 
 A visual trip down memory lane covering many of the old web dev techniques and online trends from the early days of the web. Beware, some flashing animations on this page.
 
