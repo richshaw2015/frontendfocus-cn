@@ -147,16 +147,7 @@ Gatsby is an increasingly popular React-based site building framework and this n
 
 They also boast good ethics as there’s no tracking code involved.
 
-```html
-<div class="shareon" data-url="https://example.com/custom-url">
-    <a class="facebook" data-title="Custom Facebook title"></a>
-    <a class="messenger" data-url="https://my-cool-website.com"></a>
-    <a class="pinterest" data-media="https://picsum.photos/500">Pin</a>
-    <a class="telegram" data-text="Check this out!"></a>
-    <a class="twitter" data-via="MyNickname"></a>
-    <a class="whatsapp">Send</a>
-</div>
-```
+![](https://raw.githubusercontent.com/NickKaramoff/shareon/master/docs/screen01@2x.png)
 
 *来源：Nikita Karamov*
 
