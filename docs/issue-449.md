@@ -16,7 +16,7 @@ The _Cicada Principle_ is the idea that when creating repetitive patterns, backg
 
 *来源：Lea Verou*
 
-#### [Style Stage：现代 CSS 展示](https://frontendfoc.us/link/91794/rss "stylestage.dev")
+#### [Style Stage：现代 CSS 展示平台](https://frontendfoc.us/link/91794/rss "stylestage.dev")
 
 A modern twist on the _CSS Zen Garden_ idea of yesteryear where people submit their own manipulations of a concept using the most modern of CSS features. Here are [the submissions so far](https://frontendfoc.us/link/91795/rss) with [Vaporwave](https://frontendfoc.us/link/91796/rss) being my favorite. They all have a very _“90s Web design renaissance”_ feel to them though.
 
