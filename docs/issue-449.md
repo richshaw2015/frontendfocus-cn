@@ -8,31 +8,29 @@
 
 ## 🚀 刊首
 
-#### [Web Version](https://frontendfoc.us/link/91792/rss)
-
-[![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1594810888/qjam08r7xrlr6tybsany.jpg)](https://frontendfoc.us/link/91793/rss)
-
 #### [The Cicada Principle, Revisited with CSS Variables](https://frontendfoc.us/link/91793/rss "lea.verou.me")
 
 The _Cicada Principle_ is the idea that when creating repetitive patterns, backgrounds, etc. using prime numbers can increase the appearance of organic randomness. Lea shows how she used a modern approach to this idea to format her code examples in a visually striking way.
 
+[![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/v1594810888/qjam08r7xrlr6tybsany.jpg)](https://frontendfoc.us/link/91793/rss)
+
 *来源：Lea Verou*
 
-#### [Style Stage: A Modern CSS Showcase](https://frontendfoc.us/link/91794/rss "stylestage.dev")
+#### [Style Stage：现代 CSS 展示](https://frontendfoc.us/link/91794/rss "stylestage.dev")
 
 A modern twist on the _CSS Zen Garden_ idea of yesteryear where people submit their own manipulations of a concept using the most modern of CSS features. Here are [the submissions so far](https://frontendfoc.us/link/91795/rss) with [Vaporwave](https://frontendfoc.us/link/91796/rss) being my favorite. They all have a very _“90s Web design renaissance”_ feel to them though.
 
+![](https://repository-images.githubusercontent.com/276970401/fb04d000-bf10-11ea-9e96-3788ae2b16f7)
+
 *来源：Stephanie Eckles et al.*
 
-[![](https://copm.s3.amazonaws.com/9d87edb6.png)](https://frontendfoc.us/link/91797/rss)
-
-#### ▶  [What’s New in Chrome DevTools](https://frontendfoc.us/link/91798/rss "www.youtube.com")
+#### ▶  [Chrome 开发者工具的新特性](https://frontendfoc.us/link/91798/rss "www.youtube.com")
 
 Two of Google’s best known faces on the Chrome side of things give a twenty minute run through a whole bunch of new bits and pieces available in the DevTools in areas like performance monitoring, WebAssembly source mapping, and cookies.
 
 *来源：Paul Lewis and Surma (Google)*
 
-*来源：**⚡️ Quick bits:***
+## ⚡️ Quick bits:
 
 *   Adobe Flash passes off into the sunset later this year, and [Ars Technica have taken a look back at its story.](https://frontendfoc.us/link/91799/rss) A nice bit of nostalgia.
 
@@ -44,45 +42,78 @@ Two of Google’s best known faces on the Chrome side of things give a twenty mi
 
 ## 📙 文章、教程、观点
 
-#### [Memorizing Scroll Position Across Page Loads](https://frontendfoc.us/link/91806/rss "css-tricks.com")
+#### [跨页面前记录当前页面的滚动位置](https://frontendfoc.us/link/91806/rss "css-tricks.com")
 
 An interesting UX enhancement that involves saving the current scroll position in `localstorage` before the user navigates away.
 
+```js
+let sidebar = document.querySelector(".sidebar");
+
+let top = localStorage.getItem("sidebar-scroll");
+if (top !== null) {
+  sidebar.scrollTop = parseInt(top, 10);
+}
+
+window.addEventListener("beforeunload", () => {
+  localStorage.setItem("sidebar-scroll", sidebar.scrollTop);
+});
+```
+
 *来源：Chris Coyier / Hakim El Hattab*
 
-#### [Responsive Suffixes in CSS Class Names with Sass](https://frontendfoc.us/link/91807/rss "seesparkbox.com")
+#### [Sass 生成响应式的 CSS 类名后缀](https://frontendfoc.us/link/91807/rss "seesparkbox.com")
 
 An interesting look at automating classes with Sass mixins and maps.
 
+```css
+@mixin loop-mq {
+  @content;
+  @each $key, $value in $breakpoints {
+    @media (min-width: #{$value}) {
+      &\@#{$key} {
+        @content;
+      }
+    }
+  }
+}
+```
 *来源：Philip Zastrow*
 
-#### [A Basic Technique for Switching a Logo in Dark Mode](https://frontendfoc.us/link/91808/rss "www.giftegwuenu.com")
+#### [适配暗黑模式的网站 Logo](https://frontendfoc.us/link/91808/rss "www.giftegwuenu.com")
 
 Logos often suit dark or light contexts and not the other, but you can swap them dynamically with a bit of CSS.
 
+![](https://www.giftegwuenu.com/images/uploads/untitled-design.png)
+
 *来源：Gift Egwuenu*
 
-#### ['13% of My Website Visitors Block Google Analytics'](https://frontendfoc.us/link/91809/rss "markosaric.com")
+#### [我的网站有 13% 的用户屏蔽了 Google Analytics](https://frontendfoc.us/link/91809/rss "markosaric.com")
 
 It’s not just _ads_ that get blocked but trackers too. Every site will have a different audience profile and a different likelihood of having its tracking blocked, so maybe it’s better to track requests behind the scenes or focus on other metrics instead.
 
 *来源：Marko Saric*
 
-#### [Adding the `prefers-contrast` Media Query to Firefox](https://frontendfoc.us/link/91810/rss "hacks.mozilla.org")
+#### [适配 Firefox 的 `prefers-contrast` 媒体查询属性](https://frontendfoc.us/link/91810/rss "hacks.mozilla.org")
 
 This [upcoming media query](https://frontendfoc.us/link/91811/rss) works in a similar way to `prefers-colour-scheme`, and is to be used to detect if the user has requested the system increase or decrease the amount of contrast between adjacent colors. This blog post walks through its design and implementation in Firefox.
 
+![](https://hacks.mozilla.org/files/2020/07/image3.png)
+
 *来源：Zeke Medley (Mozilla)*
 
-#### [Everything You Have to Know About Core Web Vitals](https://frontendfoc.us/link/91812/rss "calibreapp.com")
+#### [你需要知道的关于 Core Web Vitals 的一切](https://frontendfoc.us/link/91812/rss "calibreapp.com")
 
 Core Web Vitals is a set of metrics portraying three aspects of user experience: loading, interactivity and visual stability.
 
+![](https://calibreapp.com/_next/static/images/core-web-vitals-2000-32d107377cef0c5f512986fd6e6dcd11.png)
+
 *来源：Karolina Szczur*
 
-#### [Barebones WebGL in 75 Lines of Code](https://frontendfoc.us/link/91813/rss "avikdas.com")
+#### [75 行代码的标准 WebGL](https://frontendfoc.us/link/91813/rss "avikdas.com")
 
 WebGL is pretty intimidating but this boils it down to the bare essentials. And if you want to go further, I still think [this thorough guide](https://frontendfoc.us/link/91814/rss) is one of the best. Of course, you may see all of the boilerplate needed and just use [Three.js](https://frontendfoc.us/link/91815/rss) instead, which is fine too! 😄
+
+![](https://avikdas.com/assets/images/2020-07-08-barebones-webgl-in-75-lines-of-code/full-sequence-diagram.png)
 
 *来源：Avik Das*
 
@@ -92,11 +123,11 @@ WebGL is pretty intimidating but this boils it down to the bare essentials. And 
 
 ## 🔧 代码、工具、资源
 
-[![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/vttdounnlssbud63twka.jpg)](https://frontendfoc.us/link/91817/rss)
-
-#### [Tabler Icons: 500+ Customizable SVG Icons](https://frontendfoc.us/link/91817/rss "tablericons.com")
+#### [Tabler Icons：超过 500 个可定制的 SVG 图标](https://frontendfoc.us/link/91817/rss "tablericons.com")
 
 Simple, monochrome, line art SVG icons covering lots of concepts from (mostly) computer and browser based concepts to arrows and weather.
+
+[![](https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60/vttdounnlssbud63twka.jpg)](https://frontendfoc.us/link/91817/rss)
 
 *来源：Paweł Kuna*
 
@@ -112,45 +143,40 @@ Gatsby is an increasingly popular React-based site building framework and this n
 
 *来源：Hashim Warren (Gatsby)*
 
-#### [shareon: Simple and Stylish 'Share Buttons'](https://frontendfoc.us/link/91821/rss "shareon.js.org")
+#### [shareon：简单可定制的分享按钮组件](https://frontendfoc.us/link/91821/rss "shareon.js.org")
 
 They also boast good ethics as there’s no tracking code involved.
 
+```html
+<div class="shareon" data-url="https://example.com/custom-url">
+    <a class="facebook" data-title="Custom Facebook title"></a>
+    <a class="messenger" data-url="https://my-cool-website.com"></a>
+    <a class="pinterest" data-media="https://picsum.photos/500">Pin</a>
+    <a class="telegram" data-text="Check this out!"></a>
+    <a class="twitter" data-via="MyNickname"></a>
+    <a class="whatsapp">Send</a>
+</div>
+```
+
 *来源：Nikita Karamov*
 
-#### [Halfmoon: A Frontend Framework With a Built-in Dark Mode](https://frontendfoc.us/link/91822/rss "www.gethalfmoon.com")
+#### [Halfmoon：内置暗黑模式的前端框架](https://frontendfoc.us/link/91822/rss "www.gethalfmoon.com")
 
 A responsive frontend framework designed for quickly building dashboards and product pages. Uses Bootstrap-like classes, and is compatible with IE11.
 
 *来源：Halfmoon*
 
-#### [EmailComb: Remove Unused CSS From Email Templates](https://frontendfoc.us/link/91823/rss "emailcomb.com")
+#### [EmailComb：从邮件模板中移除未使用的 CSS](https://frontendfoc.us/link/91823/rss "emailcomb.com")
 
 A handy online tool to try out.
 
 *来源：Codsen ltd*
 
-#### [A Typing / Typewriter Effect in Pure CSS](https://frontendfoc.us/link/91824/rss "codepen.io")
+#### [纯 CSS 实现的打字机效果](https://frontendfoc.us/link/91824/rss "codepen.io")
 
 I’m quite impressed how simple this is - it leans on the `steps` directive to make the animation jerky enough to look like typing.
 
 *来源：CodePen demo*
-
-*来源：**🗓 Upcoming Events:***
-
-#### *   **[An Event Apart: Online Together
-
-Human-Centered Design](https://frontendfoc.us/link/91825/rss)** (July 20) — A single-day online conference with a focus on design for all users, not just some idealized average.
-
-*   **[ForwardJS](https://frontendfoc.us/link/91826/rss)** (July 20 - 24) — A virtual event, providing five days of workshops and talks to registrants from the comfort of their browser.
-
-#### *   **[ViennaCalling](https://frontendfoc.us/link/91827/rss)** (July 29)
-
-An online meetup streamed on Twitch for "all who work on the web".
-
-*   **[Frontcon](https://frontendfoc.us/link/91828/rss)** (August 12 - 14) — A frontend conf based in Latvia that's now [taking a hybrid approach](https://frontendfoc.us/link/91829/rss), offering both online and on-site attendance options.
-
-*   [Front-End Focus](https://frontendfoc.us/link/91830/rss) (August 17) – It's got the same name as this newsletter but it's nothing to do with us. It's from the _An Event Apart_ team though and has some fantastic speakers lined up, so it's bound to be good (just don't complain to us if you don't enjoy it! 😂)
 
 ## 💻 招聘
 
