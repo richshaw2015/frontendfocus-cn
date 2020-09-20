@@ -12,3 +12,4 @@ dist
 docs/bot.md
 logs
 node_modules
+*.log

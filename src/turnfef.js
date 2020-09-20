@@ -20,7 +20,7 @@ function trunFefmd(md) {
     for (let i = 0; i < middleList.length; i++) {
         const line = middleList[i].trim();
 
-        if (line === '' || line.startsWith('[Read on the Web]') || line === 'Frontend Focus' ||
+        if (line === '' || line.startsWith('[Web Version]') || line === 'Frontend Focus' ||
             line === `![](https://frontendfoc.us/open/${issueNum}/rss)`) {
             continue
         }
@@ -34,12 +34,16 @@ function trunFefmd(md) {
             skipFlag = false;
             resultList.push(`## 🔧 代码、工具、资源`);
             continue
-        } else if (line.endsWith('**Jobs**') || line.endsWith('**Upcoming Events**')) {
+        } else if (line.endsWith('**Jobs**') || line.indexOf('🗓 Upcoming Event') > 0) {
             skipFlag = true;
             continue
         } else if (line.indexOf('**ICYMI**') > 0) {
             skipFlag = false;
             resultList.push('## 🕰 推荐拾遗');
+            continue
+        } else if (line.indexOf('⚡️ Quick bits:') > 0) {
+            skipFlag = false;
+            resultList.push('## ⚡️ 快讯');
             continue
         }
 

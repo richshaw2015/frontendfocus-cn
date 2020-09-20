@@ -24,6 +24,7 @@
     "url": "https://github.com/richshaw2015/frontendfocus-cn.git"
   },
   "scripts": {
-    "build": "node src/main.js"
+    "build": "node src/main.js",
+    "test": "node src/test.js"
   }
 }
