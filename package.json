@@ -1,7 +1,7 @@
 {
   "name": "turndownfef",
   "description": "A Tool that converts Frontend Focus issue HTML to Markdown",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "author": "Rich Shaw",
   "browser": {
     "jsdom": false

@@ -38,7 +38,7 @@ Includes a new Media panel, the ability to capture node screenshots, emulate mis
 
 *来源：Jecelyn Yeen (Google Developers)*
 
-*来源：**⚡️ Quick bits:***
+## ⚡️ 快讯
 
 *   The Chromium team are looking for ways for the browser to [have access to direct TCP and UDP sockets.](https://frontendfoc.us/link/94156/rss)
 
@@ -85,20 +85,6 @@ How to create apps that are theme-aware using CSS variables and JavaScript.
 #### [Why CSS Logical Properties Aren’t Ready for Use](https://frontendfoc.us/link/94135/rss "medium.com")
 
 *来源：Elad Shechter*
-
-*来源：**🗓 Upcoming Events:***
-
-#### *   **[International JavaScript Conference](https://frontendfoc.us/link/94136/rss)** (September 2 - 4)
-
-Lots of workshops, sessions and keynotes — now all online.
-
-#### *   **[CityJS Conference](https://frontendfoc.us/link/94137/rss)** (September 14 - 18)
-
-Online conference and workshops. Speakers include Tan Li Hau, Ana Cidre, Kyle Simpson, Maximiliano Firtman and others.
-
-#### *   **[Frontend Love](https://frontendfoc.us/link/94138/rss)** (October 1 - 2)
-
-Online JavaScript conference with over over 20 frontend professionals and authors speaking.
 
 ## 🔧 代码、工具、资源
 
