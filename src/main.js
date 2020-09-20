@@ -13,7 +13,7 @@ const turndownService = new Turndown();
 const rssParser = new RssParser();
 
 (async () => {
-    const feed = await rssParser.parseURL('https://frontendfoc.us/rss');
+    const feed = await rssParser.parseURL('https://cprss.s3.amazonaws.com/frontendfoc.us.xml');
 
     feed.items.forEach(item => {
         const issueNum = /\/(\d+)$/.exec(item.link)[1];

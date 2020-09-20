@@ -52,7 +52,7 @@ Edge 86引入了显示页面源顺序的功能。
 
 *来源：DebugBear *
 
-*来源：**⚡️快速位：***
+##⚡️快讯
 
 *最新版本的Safari技术预览版现已上市，[这里是发行说明]（https://frontendfoc.us/link/95173/rss）。
 
@@ -117,24 +117,6 @@ Chrome 86引入了两项新功能，可在聚焦时改善用户和开发人员�
 #### [如何使用CSS检测全屏模式]（https://frontendfoc.us/link/95188/rss“ www.amitmerchant.com”）
 
 *来源：Amit商人*
-
-*来源：**🗓即将发生的事件：***
-
-* [DOM入门]（https://frontendfoc.us/link/95189/rss）（9月18日）— Edidiong Asikpo解释了DOM，其树状结构以及如何定位和操作它。
-
-* [通过学习性能错误来改善网络动画]（https://frontendfoc.us/link/95190/rss）（9月21日）— Google Chrome开发者倡导者Rowan Merewood将就发现的问题进行免费的个人讨论
-
-尝试在网络上制作有趣的动画。
-
-* [前端Web开发基础]（https://frontendfoc.us/link/95191/rss）（9月28日）—一项为期四天的为期四天的深度在线实时培训活动，“将为您提供基础知识
-
-前端网站开发”。
-
-#### * ** [Frontend Love]（https://frontendfoc.us/link/95192/rss）**（10月1-2日）
-
-在线JavaScript会议，有20多个前端专业人士和作者发言。
-
-* [ImageReady]（https://frontendfoc.us/link/95193/rss）（10月2日）—一个免费的半天在线活动，内容涉及现代图像格式。
 
 ##🔧代码，工具，资源
 

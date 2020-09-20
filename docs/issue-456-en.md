@@ -44,7 +44,7 @@ The latest version of this popular frontend build tool now supports native CSS `
 
 *来源：Fred K. Schott*
 
-*来源：**⚡️ Quick bits:***
+## ⚡️ 快讯
 
 *   A [working draft of version 2.2](https://frontendfoc.us/link/94474/rss) of the Web Content Accessibility Guidelines has been published for feedback.
 
@@ -107,24 +107,6 @@ Musings on the current web ‘monoculture’, the problems this creates, and ide
 #### [Create A Line Break While Maintaining Inline Status](https://frontendfoc.us/link/94494/rss "piccalil.li")
 
 *来源：Andy Bell*
-
-*来源：**🗓 Upcoming Events:***
-
-#### *   **[Inclusive Design: The Big Picture](https://frontendfoc.us/link/94495/rss)** (September 3)
-
-This online half-day workshop takes place tomorrow, and aims to remystify inclusive design and share resources to help you create inclusive design patterns.
-
-#### *   **[CityJS Conference](https://frontendfoc.us/link/94496/rss)** (September 14 - 18)
-
-Online conference and workshops. Speakers include Tan Li Hau, Ana Cidre, Kyle Simpson, Maximiliano Firtman and others.
-
-#### *   **[Web and Machine Learning Workshop](https://frontendfoc.us/link/94497/rss)** (Various September dates)
-
-This event from the W3C aims to bring together providers of ML toolkits and framework providers with web platform practitioners.
-
-#### *   **[Frontend Love](https://frontendfoc.us/link/94498/rss)** (October 1 - 2)
-
-Online JavaScript conference with over over 20 frontend professionals and authors speaking.
 
 ## 🔧 代码、工具、资源
 

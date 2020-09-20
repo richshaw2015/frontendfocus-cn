@@ -58,7 +58,7 @@
 
 *来源：弗雷德·K·肖特*
 
-*来源：**⚡️快速位：***
+##⚡️快讯
 
 * Web内容可访问性指南的[2.2版工作草案]（https://frontendfoc.us/link/94474/rss）已发布，以征询反馈。
 
@@ -123,26 +123,6 @@
 #### [在保持串联状态的同时创建换行符]（https://frontendfoc.us/link/94494/rss“ piccalil.li”）
 
 *来源：安迪·贝尔*
-
-*来源：**🗓即将发生的事件：***
-
-#### * ** [包容性设计：大图景]（https://frontendfoc.us/link/94495/rss）**（9月3日）
-
-这个在线半天的研讨会将于明天举行，目的是重新阐明包容性设计的神秘性并共享资源，以帮助您创建包容性设计模式。
-
-#### * ** [CityJS会议]（https://frontendfoc.us/link/94496/rss）**（9月14日至18日）
-
-在线会议和研讨会。
-
-演讲者包括Tan Li Hau，Ana Cidre，Kyle Simpson，Maximiliano Firtman等。
-
-#### * ** [网络和机器学习研讨会]（https://frontendfoc.us/link/94497/rss）**（各个9月的日期）
-
-W3C的这次活动旨在将ML工具包的提供者和框架提供者与Web平台从业者聚集在一起。
-
-#### * ** [Frontend Love]（https://frontendfoc.us/link/94498/rss）**（10月1-2日）
-
-在线JavaScript会议，有20多个前端专业人士和作者发言。
 
 ##🔧代码，工具，资源
 

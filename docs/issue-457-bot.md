@@ -48,7 +48,7 @@ David Atanda挖掘了许多现成的工具，从响应图像到相对较新的CS
 
 *来源：Marko Ilic *
 
-*来源：**⚡️快速位：***
+##⚡️快讯
 
 * Chrome 86（将于10月推出）将[增加对CSS`:: marker`伪元素的支持]（https://frontendfoc.us/link/94823/rss），非常适合样式符号元素。
 
@@ -115,32 +115,6 @@ David Atanda挖掘了许多现成的工具，从响应图像到相对较新的CS
 #### [如何使用基本形状简化SVG代码]（https://frontendfoc.us/link/94839/rss“ css-tricks.com”）
 
 *来源：Mariana Beldi *
-
-*来源：**🗓即将发生的事件：***
-
-#### * ** [CityJS会议]（https://frontendfoc.us/link/94840/rss）**（9月14日至18日）
-
-在线会议和研讨会。
-
-演讲者包括Tan Li Hau，Ana Cidre，Kyle Simpson，Maximiliano Firtman等。
-
-#### * ** [网络和机器学习研讨会]（https://frontendfoc.us/link/94841/rss）**（各个9月的日期）
-
-W3C的这次活动旨在将ML工具包的提供者和框架提供者与Web平台从业者聚集在一起。
-
-* [通过学习性能错误来改善网络动画]（https://frontendfoc.us/link/94842/rss）（9月21日）— Google Chrome开发者倡导者Rowan Merewood将就发现的问题进行免费的个人讨论
-
-尝试在网络上制作有趣的动画。
-
-* [前端Web开发基础]（https://frontendfoc.us/link/94843/rss）（9月28日）—一项为期四天的为期四天的深入在线实时培训活动，“将为您提供基础知识
-
-前端网站开发”。
-
-#### * ** [Frontend Love]（https://frontendfoc.us/link/94844/rss）**（10月1-2日）
-
-在线JavaScript会议，有20多个前端专业人士和作者发言。
-
-* [ImageReady]（https://frontendfoc.us/link/94845/rss）（10月2日）—一个免费的半天在线活动，内容涉及现代图像格式。
 
 ##🔧代码，工具，资源
 

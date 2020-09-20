@@ -38,7 +38,7 @@ Yep, when I think of media queries I’m thinking of something in a CSS file, bu
 
 *来源：Marko Ilic*
 
-*来源：**⚡️ Quick bits:***
+## ⚡️ 快讯
 
 *   Chrome 86 (out in October) will [add support for the CSS `::marker` pseudo-element](https://frontendfoc.us/link/94823/rss), perfect for styling bullet elements.
 
@@ -105,26 +105,6 @@ An essay on brutalism in web design and how note taking app of the moment Notion
 #### [How to Simplify SVG Code Using Basic Shapes](https://frontendfoc.us/link/94839/rss "css-tricks.com")
 
 *来源：Mariana Beldi*
-
-*来源：**🗓 Upcoming Events:***
-
-#### *   **[CityJS Conference](https://frontendfoc.us/link/94840/rss)** (September 14 - 18)
-
-Online conference and workshops. Speakers include Tan Li Hau, Ana Cidre, Kyle Simpson, Maximiliano Firtman and others.
-
-#### *   **[Web and Machine Learning Workshop](https://frontendfoc.us/link/94841/rss)** (Various September dates)
-
-This event from the W3C aims to bring together providers of ML toolkits and framework providers with web platform practitioners.
-
-*   [Improving Web Animations by Learning from Performance Mistakes](https://frontendfoc.us/link/94842/rss) (September 21) — Rowan Merewood, Developer Advocate for Chrome at Google will deliver a free, personal talk on things discovered trying to build fun animations on the web.
-
-*   [Front-End Web Development Foundations](https://frontendfoc.us/link/94843/rss) (September 28) — An in-depth, four half-day live online training event that "will give you a foundation of front-end web development".
-
-#### *   **[Frontend Love](https://frontendfoc.us/link/94844/rss)** (October 1 - 2)
-
-Online JavaScript conference with over over 20 frontend professionals and authors speaking.
-
-*   [ImageReady](https://frontendfoc.us/link/94845/rss) (October 2) — A free half-day online event featuring talks about modern image formats.
 
 ## 🔧 代码、工具、资源
 
