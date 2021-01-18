@@ -5,7 +5,7 @@ const path = require('path');
 
 const Turndown = require('turndown');
 const RssParser = require('rss-parser');
-const { youdao, baidu, google } = require('translation.js')
+// const { youdao, baidu, google } = require('translation.js')
 
 const trunFefmd = require('./turnfef');
 
@@ -23,7 +23,7 @@ const rssParser = new RssParser();
         // 目标中文文件
         const issueCn = path.resolve(__dirname, `../docs/issue-${issueNum}.md`);
         // 机器翻译文件
-        const botRef = path.resolve(__dirname, `../docs/issue-${issueNum}-bot.md`);
+        // const botRef = path.resolve(__dirname, `../docs/issue-${issueNum}-bot.md`);
 
         if (fs.existsSync(issueEn)) {
             console.log(`跳过处理文件：| ${issueEn}`)
@@ -46,22 +46,22 @@ const rssParser = new RssParser();
             });
             
             // 翻译
-            google.translate({
-                text: fefMd,
-                from: 'en',
-                to: 'zh-CN'
-            }).then(data => {
-                // 机器翻译参考文件
-                fs.writeFile(botRef, data['result'].join('\n\n'), function (err) {
-                    if (err) {
-                        console.error(err.message);
-                        return
-                    }
-                    console.log(`机器翻译文件生成成功：| ${botRef}`)
-                });
-            }).catch(error => {
-                console.warn(`翻译异常：| ${error.code}`)
-            })
+            // google.translate({
+            //     text: fefMd,
+            //     from: 'en',
+            //     to: 'zh-CN'
+            // }).then(data => {
+            //     // 机器翻译参考文件
+            //     fs.writeFile(botRef, data['result'].join('\n\n'), function (err) {
+            //         if (err) {
+            //             console.error(err.message);
+            //             return
+            //         }
+            //         console.log(`机器翻译文件生成成功：| ${botRef}`)
+            //     });
+            // }).catch(error => {
+            //     console.warn(`翻译异常：| ${error.code}`)
+            // })
         }
     })
 })()

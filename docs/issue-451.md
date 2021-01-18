@@ -1,6 +1,6 @@
 # 前端聚焦周刊：第 451 期
 
-这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [己思](https://ohmyrss.com/?fef) 平台首发。
+这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [Dinosaur Rss 🦕](https://dinorss.org/?fef) 平台首发。
 
 > 原文：[Frontend Focus issue 451](https://frontendfoc.us/issues/451)
 > 
