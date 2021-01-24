@@ -5,7 +5,10 @@
 如有翻译错误或国外优质文章推荐，欢迎提交 issue。
 
 ## 2020
-**八月**：[第 451 期](docs/issue-451.md):high_brightness: ｜ [第 450 期](docs/issue-450.md) | [第 449 期](docs/issue-449.md) | [第 448 期](docs/issue-448.md)
+
+**九月**：[第 452 期](docs/issue-452.md):high_brightness:
+
+**八月**：[第 451 期](docs/issue-451.md)｜ [第 450 期](docs/issue-450.md) | [第 449 期](docs/issue-449.md) | [第 448 期](docs/issue-448.md)
 
 **七月**：[第 447 期](docs/issue-447.md) | [第 446 期](docs/issue-446.md) | [第 445 期](docs/issue-445.md) | [第 444 期](docs/issue-444.md)
 
