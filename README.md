@@ -1,11 +1,9 @@
 # 前端聚焦周刊
 
-这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [己思](https://ohmyrss.com/?fef) 平台首发。
-
-如有翻译错误或国外优质文章推荐，欢迎提交 issue。
+这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [Dinosaur Rss 🦕](https://dinorss.org/?fef) 平台首发。
 
 ## 2021
-**1月**: [第 475 期](docs/issue-475.md):high_brightness:
+**1月**：[第 475 期](docs/issue-475.md):high_brightness:
 
 ## 2020
 
