@@ -18,9 +18,12 @@ function trunFefmd(md) {
     let issueNum = 0;
 
     for (let i = 0; i < middleList.length; i++) {
+        if (i == 0) {
+            continue
+        }
         const line = middleList[i].trim();
 
-        if (line === '' || line.startsWith('[Web Version]') || line === 'Frontend Focus' ||
+        if (line === '' || line.startsWith('[Web Version]') ||
             line === `![](https://frontendfoc.us/open/${issueNum}/rss)`) {
             continue
         }

@@ -4,9 +4,12 @@
 
 如有翻译错误或国外优质文章推荐，欢迎提交 issue。
 
+## 2021
+**1月**: [第 475 期](docs/issue-475.md):high_brightness:
+
 ## 2020
 
-**九月**：[第 452 期](docs/issue-452.md):high_brightness:
+**九月**：[第 452 期](docs/issue-452.md)
 
 **八月**：[第 451 期](docs/issue-451.md)｜ [第 450 期](docs/issue-450.md) | [第 449 期](docs/issue-449.md) | [第 448 期](docs/issue-448.md)
 

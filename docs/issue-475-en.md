@@ -1,5 +1,3 @@
-*来源：Frontend ![](https://res.cloudinary.com/cpress/image/upload/v1602675575/hhmdxfk96fnbq3effjk1.png) Focus*
-
 # 前端聚焦周刊：第 475 期
 
 这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [Dinosaur Rss 🦕](https://dinorss.org/?fef) 平台首发。
