@@ -3,7 +3,7 @@
 这里是 [Frontend Focus](https://frontendfoc.us/latest) 的中文翻译项目，每周在 [Dinosaur Rss 🦕](https://dinorss.org/?fef) 平台首发。
 
 ## 2021
-**1月**：[第 475 期](docs/issue-475.md):high_brightness:
+**2月**：[第 476 期](docs/issue-476.md):high_brightness: | [第 475 期](docs/issue-475.md)
 
 ## 2020
 
